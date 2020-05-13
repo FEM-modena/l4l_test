@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | Li Per La | FEM</title>
-    <link>/materiali/template/</link>
-      <atom:link href="/materiali/template/index.xml" rel="self" type="application/rss+xml" />
+    <link>l4l_test/materiali/template/</link>
+      <atom:link href="l4l_test/materiali/template/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/l4l_test/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Overview</title>
-      <link>/materiali/template/</link>
+      <link>l4l_test/materiali/template/</link>
     </image>
     
     <item>
       <title>Lingua italiana e didattica digitale | consigli, suggerimenti e buone pratiche</title>
-      <link>/materiali/template/esempio1/</link>
+      <link>l4l_test/materiali/template/esempio1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/materiali/template/esempio1/</guid>
+      <guid>l4l_test/materiali/template/esempio1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fem.digital&#34; rel=&#34;FEM Future Education Modena&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;FEM_Logo.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;slide-del-webinar&#34;&gt;Slide del webinar&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE&#34; rel=&#34;FEM Future Education Modena&#34; target=&#34;_blank&#34;&gt;Link diretto alle slide&lt;/a&gt;&lt;/p&gt;

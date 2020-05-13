@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>voyant | Li Per La | FEM</title>
-    <link>/tag/voyant/</link>
-      <atom:link href="/tag/voyant/index.xml" rel="self" type="application/rss+xml" />
+    <link>l4l_test/tag/voyant/</link>
+      <atom:link href="l4l_test/tag/voyant/index.xml" rel="self" type="application/rss+xml" />
     <description>voyant</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/l4l_test/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>voyant</title>
-      <link>/tag/voyant/</link>
+      <link>l4l_test/tag/voyant/</link>
     </image>
     
     <item>
       <title>GSuite e linguistica | spunti per migliorare le competenze di scrittura</title>
-      <link>/post/strumenti-voyant/</link>
+      <link>l4l_test/post/strumenti-voyant/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/strumenti-voyant/</guid>
+      <guid>l4l_test/post/strumenti-voyant/</guid>
       <description>&lt;p&gt;Riscrivere un brano cambiandone la tipologia testuale, modificarne la connotazione, far emergere quelle caratteristiche che rendono un testo chiaro ed efficace. Sono questi alcuni dei meccanismi che affronteremo in questo mini-webinar, che ci fa entrare nel vivo del mese linguistico dedicato alla scrittura. Vedremo - attraverso un approccio ispirato alla scrittura collaborativa su documenti GDocs - come sia possibile migliorare la produzione e la riscrittura di testi attraverso l’annotazione e l’analisi di alcune caratteristiche testuali, favorendo al contempo una riflessione sui significati e sulle connotazioni che la lingua è in grado di trasmettere.&lt;/p&gt;
 &lt;p&gt;Il webinar fa parte di una programmazione più ampia dedicata all’interazione tra linguistica e didattica in classe. Vi invitiamo a visionare tutti i materiali e le attività prodotti finora sulla nostra pagina web Risorse di linguistica (&lt;a href=&#34;https://www.fem.digital/linguistica/&#34;&gt;https://www.fem.digital/linguistica/&lt;/a&gt;) e a condividere con noi idee e suggerimenti nella nostra stanza Lingua e Linguistica su Google Classroom al link &lt;a href=&#34;https://classroom.google.com/h,&#34;&gt;https://classroom.google.com/h,&lt;/a&gt; utilizzando il codice jdibcze.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    I materiali per il webinar sono disponibili &lt;a href=&#34;/materiali/template/esempio1&#34;&gt;a questo link&lt;/a&gt;
+    I materiali per il webinar sono disponibili &lt;a href=&#34;l4l_test/materiali/template/esempio1&#34;&gt;a questo link&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
