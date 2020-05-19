@@ -1,16 +1,1097 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Materiali | Li Per La | FEM</title>
-    <link>/materiali/</link>
-      <atom:link href="/materiali/index.xml" rel="self" type="application/rss+xml" />
-    <description>Materiali</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <title>Materialis | Li Per La | FEM</title>
+    <link>l4l_test/materiali/</link>
+      <atom:link href="l4l_test/materiali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Materialis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Materiali</title>
-      <link>/materiali/</link>
+      <url>/l4l_test/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Materialis</title>
+      <link>l4l_test/materiali/</link>
     </image>
+    
+    <item>
+      <title>GSuite, linguistica, Media &amp; Information Literacy | spunti per rafforzare le competenze di scrittura e comunicazione digitale</title>
+      <link>l4l_test/materiali/materiali-didattici/scrittura-3/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/scrittura-3/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;le-nostre-proposte&#34;&gt;Le nostre proposte&lt;/h2&gt;
+&lt;p&gt;Vi abbiamo preparato una serie di attività di comprensione e scrittura a partire da diverse tipologie di testi. Le attività sono pensate per le scuole secondarie di secondo grado, ed affrontano diverse caratteristiche linguistiche coinvolte nella comprensione e nella produzione di testi.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Metafore concettuali&lt;/strong&gt;&lt;/em&gt;: le metafore influenzano/costruiscono il modo attraverso il quale concettualizziamo un argomento.&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:blue&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Evidenzialità&lt;/strong&gt;&lt;/em&gt;: ciò che facciamo quando riportiamo delle informazioni acquisite da terze parti: citiamo le fonti? E se sì, in che modo ci rapportiamo ad esse? Ci fidiamo o facciamo capire che non siamo d’accordo?&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Coesione e coerenza&lt;/strong&gt;&lt;/em&gt;: le regole &lt;em&gt;base&lt;/em&gt; di un “buon testo”, così come sono state stilate dai linguisti Dressler e Beaugrande (&lt;em&gt;Introduzione alla linguistica testuale&lt;/em&gt; 1984).&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:purple&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Prosodia semantica&lt;/strong&gt;&lt;/em&gt;: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto, che una parola “si porta dietro” in base a come è stata utilizzata e percepita fino ad ora.&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:DarkOrange&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Violenza verbale / hate-speech&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;le-attività--doccano&#34;&gt;Le attività | &lt;em&gt;doccano&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/4&#34; target=&#34;_blank&#34;&gt;Stile Ostile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/5&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Umberto Eco&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/6&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Climate Change&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/7&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Prima del Coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/8&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Dopo il Coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/9&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Coronavirus all&amp;rsquo;estero&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://doccano.fem.digital/projects/11&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Brexit&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;le-attività--template-in-gdoc&#34;&gt;Le attività | Template in GDoc&lt;/h2&gt;
+&lt;p&gt;Di seguito i nostri &lt;strong&gt;template&lt;/strong&gt; suddivisi per tipologia testuale, con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/11-u2NW5v4J7boFDfVQXhjS5RdW8CYGAtw2-bJsUTwYA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Stile Ostile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://docs.google.com/document/d/1yr2l-IG7IDMzhpt2reurmLurJX16hjZSGwSA9AQVu2M/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt; Comprensione del testo | Umberto Eco&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/1Vd8XXsk4m_yHFGFnshQIcjYX8ITpZ06z7qFikhlsUk8/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Climate Change&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/17ylVq0deaVkdnS3CMIbKkH374J0o2SoVjUvp9JhzXiM/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Prima del Coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/1R10KP4YLmNVBV5Ldepd16c5AANvz1dPcQYYolcnfsnQ/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Dopo il Coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/1ngpD063MlstudnTSN9NeReKrNK33IJZUk_43_E10h-I/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Coronavirus all&amp;rsquo;estero&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-file-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://docs.google.com/document/d/1QRgn7G_DUFLXNZAUbr4EVMv3yTxK7GTv8X6O-UJmAV8/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Comprensione del testo | Brexit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I template contengono alcuni esempi tratti dai diversi dataset. Puoi trovare tutti i testi delle singole attivita in &lt;a href=&#34;https://drive.google.com/drive/folders/1R4qgFW17pCd6tAxPzyBG9L9DmQj68kSM?usp=sharing&#34; target=&#34;_blank&#34;&gt;questa cartella condivisa&lt;/a&gt;, che raccoglie i materiali caricati su &lt;em&gt;doccano&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;come-sono-strutturati-i-nostri-template&#34;&gt;Come sono strutturati i nostri &lt;strong&gt;template&lt;/strong&gt;?&lt;/h3&gt;
+&lt;p&gt;Ogni attività è pensata per essere disponibile in versione &lt;em&gt;avanzata&lt;/em&gt; anche sulla piattaforma di annotazione &lt;strong&gt;doccano&lt;/strong&gt;. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
+Nella sezione &lt;strong&gt;Hai voglia di scrivere?&lt;/strong&gt; trovate alcuni spunti di scrittura che partono sempre da una &lt;em&gt;rielaborazione&lt;/em&gt; delle caratteristiche annotate precedentemente. In &lt;strong&gt;Valutiamoci!&lt;/strong&gt; vi proponiamo invece un’attività di &lt;em&gt;(auto)valutazione&lt;/em&gt; da svolgere insieme ai vostri studenti utilizzando lo strumento &lt;strong&gt;Voyant&lt;/strong&gt; per leggere i testi letterari. Perchè non provare a caricare i testi prodotti dagli studenti e lasciar loro la possibilità di &lt;em&gt;esplorarli&lt;/em&gt;, magari concentrandosi sul lessico utilizzato o sull’uso delle connotazioni?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GSuite e linguistica | spunti per migliorare le competenze di scrittura</title>
+      <link>l4l_test/materiali/materiali-didattici/scrittura-2/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/scrittura-2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;le-nostre-proposte&#34;&gt;Le nostre proposte&lt;/h2&gt;
+&lt;p&gt;Vi abbiamo preparato una serie di attività di comprensione e scrittura a partire da diverse tipologie di testi letterari in uso a scuola, e in più una proposta per chi volesse cimentarsi con un testo argomentativo. Le attività sono pensate per le scuole secondarie di primo e di secondo grado, ed affrontano diverse caratteristiche linguistiche coinvolte nella comprensione e nella produzione di testi.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Metafore concettuali&lt;/strong&gt;&lt;/em&gt;: le metafore influenzano/costruiscono il modo attraverso il quale concettualizziamo un argomento.&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:blue&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Evidenzialità&lt;/strong&gt;&lt;/em&gt;: ciò che facciamo quando riportiamo delle informazioni acquisite da terze parti: citiamo le fonti? E se sì, in che modo ci rapportiamo ad esse? Ci fidiamo o facciamo capire che non siamo d’accordo?&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Coesione e coerenza&lt;/strong&gt;&lt;/em&gt;: le regole &lt;em&gt;base&lt;/em&gt; di un “buon testo”, così come sono state stilate dai linguisti Dressler e Beaugrande (&lt;em&gt;Introduzione alla linguistica testuale&lt;/em&gt; 1984).&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:purple&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Prosodia semantica&lt;/strong&gt;&lt;/em&gt;: l’uso delle giuste connotazioni e accezioni di significato a seconda del contesto, che una parola “si porta dietro” in base a come è stata utilizzata e percepita fino ad ora.&lt;br&gt;
+&lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:DarkOrange&#34;&gt;&lt;/i&gt; &lt;em&gt;&lt;strong&gt;Violenza verbale / hate-speech&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;le-schede-attività--template-in-gdoc&#34;&gt;Le schede attività | Template in GDoc&lt;/h2&gt;
+&lt;p&gt;Di seguito i nostri &lt;strong&gt;template&lt;/strong&gt; suddivisi per tipologia testuale, con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.&lt;/p&gt;
+&lt;h3 id=&#34;scuole-secondarie---1-grado&#34;&gt;Scuole secondarie - 1° grado&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Il romanzo horror&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/1cFDdbOuxPv_eZe1a2Pn1M1slhVtwPbbpbIAAOKSvvf8/edit&#34; target=&#34;_blank&#34;&gt;Questo primo template&lt;/a&gt; è calibrato sull’opera &lt;em&gt;Frankenstein&lt;/em&gt; (Mary Shelley, 1818) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi horror. Non ti piace &lt;strong&gt;Frankenstein&lt;/strong&gt;? Perché non provare con &lt;strong&gt;Dracula&lt;/strong&gt; o &lt;strong&gt;Racconti fantastici e dell’orrore&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il romanzo fantastico&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://drive.google.com/open?id=1IcSZDjVgdwnbtbTnNpjCZc08xdQ7gNWuuOBDpoz_shU&#34; target=&#34;_blank&#34;&gt;Questo template&lt;/a&gt; è calibrato sull’opera &lt;em&gt;Dalla Terra alla Luna&lt;/em&gt; (Jules Verne, 1865) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi fantastici. Non ti piace &lt;strong&gt;Dalla Terra alla Luna&lt;/strong&gt;? Perché non provare con &lt;strong&gt;Alice nel paese delle meraviglie&lt;/strong&gt; o &lt;strong&gt;I viaggi di Gulliver&lt;/strong&gt;?&lt;/p&gt;
+&lt;h3 id=&#34;scuole-secondarie---2-grado&#34;&gt;Scuole secondarie - 2° grado&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;I Promessi Sposi&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/1ogztNmFm9PdAAsvnND59dZ2EemqFLZ5cz6TWVGVPauw&#34; target=&#34;_blank&#34;&gt;Questo template&lt;/a&gt; è calibrato sull’opera &lt;em&gt;I Promessi Sposi&lt;/em&gt; (Alessandro Manzoni, 1842) e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi letterari.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il testo argomentativo&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/19tZeWgxqa9vMymbQZ8jc03qzw-rTYIHSj6QJuku8Shs&#34; target=&#34;_blank&#34;&gt;Questo template&lt;/a&gt; è calibrato sull’analisi di testi argomentativi - in questo caso l’articolo &lt;em&gt;Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa&lt;/em&gt;, pubblicato sul sito linkiesta.it - e contiene spunti ed idee per attività di comprensione, scrittura, e valutazione di testi argomentativi.&lt;/p&gt;
+&lt;h3 id=&#34;come-sono-strutturati-i-nostri-template&#34;&gt;Come sono strutturati i nostri &lt;strong&gt;template&lt;/strong&gt;?&lt;/h3&gt;
+&lt;p&gt;Ogni attività è pensata per essere disponibile in versione &lt;em&gt;avanzata&lt;/em&gt; anche sulla piattaforma di annotazione &lt;strong&gt;doccano&lt;/strong&gt;. Per ogni testo abbiamo preparato una tabella per annotare le caratteristiche testuali, con un focus particolare sulla &lt;i class=&#34;far fa-comment-dots&#34; style=&#34;color:purple&#34;&gt;&lt;/i&gt; &lt;em&gt;prosodia semantica&lt;/em&gt;. Pensiamo infatti che identificare e annotare le caratteristiche salienti di una certa tipologia testuale sia il primo passo per imparare a scrivere un testo originale.
+Nella sezione &lt;strong&gt;Hai voglia di scrivere?&lt;/strong&gt; trovate alcuni spunti di scrittura che partono sempre da una &lt;em&gt;rielaborazione&lt;/em&gt; delle caratteristiche annotate precedentemente. In &lt;strong&gt;Valutiamoci!&lt;/strong&gt; vi proponiamo invece un’attività di &lt;em&gt;(auto)valutazione&lt;/em&gt; da svolgere insieme ai vostri studenti utilizzando lo strumento &lt;strong&gt;Voyant&lt;/strong&gt; per leggere i testi letterari. Perchè non provare a caricare i testi prodotti dagli studenti e lasciar loro la possibilità di &lt;em&gt;esplorarli&lt;/em&gt;, magari concentrandosi sul lessico utilizzato o sull’uso delle connotazioni?&lt;/p&gt;
+&lt;h2 id=&#34;qualche-attività-extra-esploriamo-il-testo&#34;&gt;Qualche attività &lt;strong&gt;extra&lt;/strong&gt;: Esploriamo il testo?&lt;/h2&gt;
+&lt;p&gt;Prima di far leggere i brani ai vostri studenti, vi proponiamo un’attività &lt;strong&gt;esplorativa&lt;/strong&gt; utilizzando lo strumento &lt;a href= &#34;https://voyant-tools.org&#34; target=&#34;_blank&#34;&gt;Voyant&lt;/a&gt; per la letteratura &lt;em&gt;a distanza&lt;/em&gt; (dentro ad ogni template c’è un link per accedere ad una mini-guida all’uso di Voyant). &lt;br&gt;
+Di seguito alcuni esperimenti linguistici sul testo di &lt;em&gt;Frankenstein&lt;/em&gt;: abbiamo analizzato &lt;a href= &#34;https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&amp;query=creatur*&amp;panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;view=CorpusCollocates&#34; target=&#34;_blank&#34;&gt; le collocazioni di &amp;ldquo;creatur*&amp;rdquo; &lt;/a&gt; e &lt;a href= &#34;https://voyant-tools.org/?corpus=c0ed31aa33706385f1d918bc3b09bc68&amp;query=mostro*&amp;panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;view=Contexts&#34; target=&#34;_blank&#34;&gt; i contesti di &amp;ldquo;mostro&amp;rdquo; &lt;/a&gt; perchè ci interessava capire quanto questi termini fossero caratterizzanti del linguaggio “dell’orrore” tipico del romanzo gotico.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-collocazioni-di-creatur&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../creatur.png&#34; data-caption=&#34;Collocazioni di creatur*&#34;&gt;
+
+
+  &lt;img src=&#34;../creatur.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Collocazioni di &lt;em&gt;creatur*&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-collocazioni-di-mostro&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../mostro.png&#34; data-caption=&#34;Collocazioni di mostro&#34;&gt;
+
+
+  &lt;img src=&#34;../mostro.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Collocazioni di &lt;em&gt;mostro&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Strumenti e metodi per migliorare la produzione del testo scritto</title>
+      <link>l4l_test/materiali/materiali-didattici/scrittura-1/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/scrittura-1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;le-caratteristiche-di-un-buon-testo-secondo-la-linguistica-testuale&#34;&gt;Le caratteristiche di un buon testo secondo la &lt;em&gt;Linguistica testuale&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “buon” testo? &lt;strong&gt;Coesione&lt;/strong&gt;, &lt;strong&gt;coerenza&lt;/strong&gt;, &lt;strong&gt;intenzionalità&lt;/strong&gt;, &lt;strong&gt;accettabilità&lt;/strong&gt;, &lt;strong&gt;informatività&lt;/strong&gt;, &lt;strong&gt;situazionalità&lt;/strong&gt; e &lt;strong&gt;intertestualità&lt;/strong&gt; sono quelle individuate da Dressler e Beaugrande in &lt;em&gt;Introduzione alla linguistica testuale&lt;/em&gt; (1984) - puoi trovare una discussione sulla Linguistica Testuale scritta dal linguista Massimo Colella presso &lt;a href=&#34;https://www.academia.edu/32120103/Massimo_Colella_Un_introduzione_alla_Linguistica_Testuale_in_Quaderni_del_Laboratorio_di_Linguistica_Scuola_Normale_Superiore_Pisa_11_2012&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La &lt;strong&gt;coesione&lt;/strong&gt; riguarda il modo in cui le componenti del testo sono collegate tra loro ed è realizzata con mezzi sia grammaticali (per es. pronomi e congiunzioni) sia semantici (per es. il riferimento a un particolare termine attraverso sinonimi, iponimi e iperonimi o con ellissi facilmente colmabili da parte del ricevente). È una condizione molto visibile &lt;em&gt;in superficie&lt;/em&gt;, in particolare tramite connettivi e riferimenti anaforici.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;coerenza&lt;/strong&gt; riguarda la concatenazione tra concetti logici e semantici che sono &lt;em&gt;sotto la superficie&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;intenzionalità&lt;/strong&gt; è in altri termini la spinta comunicativa dell’autore: qual è l’obiettivo che vuole raggiungere scrivendo il testo? Coesione e coerenza devono sempre essere coniugate con l’intenzione e la volontà di avere un certo effetto sul lettore.&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;accettabilità&lt;/strong&gt; è la proprietà complementare dell’intenzionalità e riguarda l’atteggiamento del destinatario del testo, che si aspetta di leggere un prodotto coerente, coeso e in cui emerga una certa intenzione.&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;informatività&lt;/strong&gt; è la misura in cui tutti gli elementi del testo veicolano un’informazione che può essere attesa/inattesa o nota/non nota.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;situazionalità&lt;/strong&gt; è il grado di dipendenza del testo dalla situazione comunicativa, dal &lt;em&gt;contesto&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;L’&lt;strong&gt;intertestualità&lt;/strong&gt; è il rapporto tra un testo e altri testi non presenti ma che svolgono una parte importante nell’interpretazione di quello preso in esame.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A partire da queste sette caratteristiche, abbiamo sviluppato un percorso di &lt;em&gt;attivazione&lt;/em&gt; delle competenze di analisi linguistica propedeutiche alla produzione di testi scritti. Il percorso è incentrato sull’analisi e la comprensione di &lt;strong&gt;tre macro-caratteristiche&lt;/strong&gt;, che richiamano (e ampliano) le sette proposte da de Beaugrande:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-spell-check&#34; style=&#34;color:blue&#34;&gt;&lt;/i&gt; &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Grammatica&lt;/strong&gt;&lt;/span&gt;: prende spunto dalla caratteristica di &lt;em&gt;coesione&lt;/em&gt; (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nella tabella dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-sort-alpha-down&#34; style=&#34;color:purple&#34;&gt;&lt;/i&gt; &lt;span style=&#34;color:purple&#34;&gt;&lt;strong&gt;Lessico&lt;/strong&gt;&lt;/span&gt;: elemento derivato dal concetto di &lt;em&gt;informatività&lt;/em&gt; (de Beaugrande); questo elemento è composto da due etichette, &lt;em&gt;parole attese&lt;/em&gt; e &lt;em&gt;parole inattese&lt;/em&gt;, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-plus-square&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt;/&lt;i class=&#34;fas fa-minus-square&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; &lt;span style=&#34;color:green&#34;&gt;&lt;strong&gt;Connot&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;azione&lt;/strong&gt;&lt;/span&gt;: elemento derivato dal concetto di &lt;em&gt;prosodia semantica&lt;/em&gt;, che va ad aggiungersi alle sette caratteristiche individuate dalla &lt;em&gt;Linguistica Testuale&lt;/em&gt;. Permette di accedere ad un livello di astrazione maggiore, basato su &lt;strong&gt;Grammatica&lt;/strong&gt; e &lt;strong&gt;Lessico&lt;/strong&gt;, includendo quel &lt;em&gt;portato sociale&lt;/em&gt; alla base della comprensione e produzione di una comunicazione &lt;em&gt;situata&lt;/em&gt; in un contesto comunicativo. La connotazione è messa in pratica attraverso due etichette, che permettono di evidenziare connotazione positiva e connotazione negativa.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Il percorso in tre passaggi permette l&amp;rsquo;identificazione e l’analisi di caratteristiche formali e strutturali centrali al testo, e propedeutiche alla creazione di un testo (in termini di struttura interna e di vocabolario, adeguatezza del testo all’interno del contesto comunicativo, livello di difficoltà del testo rispetto a conoscenze pregresse su un dato argomento). L’analisi permette inoltre di insegnare - in maniera “indiretta” - quelle sette caratteristiche (de Beaugrande) alla base di un &lt;em&gt;buon testo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Per svolgere l’attività con GSuite abbiamo creato un &lt;a href=&#34;https://drive.google.com/open?id=1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE&#34; target=&#34;_blank&#34;&gt; template in bianco&lt;/a&gt;, che può essere utilizzato - anche riadattandolo secondo le proprie necessità - per l’analisi di qualsiasi testo, sia letterario sia argomentativo. Nella sezione 
+&lt;a href=&#34;#spunti-per-attivit%c3%a0-in-classe&#34;&gt;Spunti per attività in classe&lt;/a&gt; abbiamo inoltre incluso due schede di attività (una con testo argomentativo, una con testo letterario) già pronte per essere utilizzate!
+Nel corso delle prossime settimane creeremo inoltre dei dataset sulla piattaforma  &lt;a href=&#34;http://doccano.fem.digital/&#34; target=&#34;_blank&#34;&gt;doccano&lt;/a&gt;, attraverso la quale sarà possibile svolgere l’attività di annotazione in maniera più fluida.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-question-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Quali sono le condizioni di testualità su cui i ragazzi hanno più difficoltà? Vorreste pensare insieme a delle attività sui connettivi testuali, espressioni anaforiche, o altro? Scrivetecelo nella 
+&lt;a href=&#34;#la-nostra-classroom&#34;&gt;nostra Classroom&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;testo-scritto-e-prosodia-semantica-un-approccio-linguistico&#34;&gt;Testo scritto e prosodia semantica: un approccio linguistico&lt;/h2&gt;
+&lt;p&gt;Per scrivere un “buon testo” non basta però rispettare tutte le condizioni di testualità: è anche necessario saper esprimere le giuste connotazioni e accezioni di significato, un fenomeno che in linguistica chiamiamo &lt;strong&gt;prosodia semantica&lt;/strong&gt;. Pensiamo al caso degli aggettivi &lt;em&gt;celeberrimo&lt;/em&gt; e &lt;em&gt;famigerato&lt;/em&gt;: entrambi esprimono l’idea di qualcosa di “famoso, celebre”, ma &lt;em&gt;celeberrimo&lt;/em&gt; ha una connotazione prevalentemente positiva, mentre &lt;em&gt;famigerato&lt;/em&gt; prevalentemente negativa.
+Altro esempio più informale: la locuzione &lt;strong&gt;all’italiana&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Questa presenta sia connotazione positiva sia negativa, ognuna delle quali dipendente dall’ “oggetto” in questione. Quando si tratta di “manifestazioni culturali che contraddistinguono una nazione, in questo caso l’Italia, e ne evidenziano un certo stile e certe modalità d’espressione”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, allora la connotazione è prevalentemente positiva:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-plus-square&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; commedia all’italiana&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-plus-square&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; giardino all’italiana&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-plus-square&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; western all’italiana&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-plus-square&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; caffè all’italiana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azioni relative a campi semantici quali la politica, l’economia, etc… allora la connotazione diventa negativa, ad indicare “qualcosa che funziona male o viene svolto superficialmente”:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-minus-square&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; Auspicava una strana soluzione, una &lt;strong&gt;soluzione all&amp;rsquo;italiana&lt;/strong&gt;: ritiriamo le truppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-minus-square&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; Tipico del &lt;strong&gt;giornalismo all&amp;rsquo;italiana&lt;/strong&gt;: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fas fa-minus-square&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto &lt;strong&gt;fai-da-te all&amp;rsquo;italiana&lt;/strong&gt;: il 16,4% si porta il cibo da casa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scrivo-quindi-leggo&#34;&gt;Scrivo, quindi leggo&lt;/h2&gt;
+&lt;p&gt;La linguistica cognitiva spiega - tra le tante cose di cui si occupa - i meccanismi attraverso i quali noi esseri umani apprendiamo il linguaggio (le parole, la sintassi, gli usi, i significati, etc…). Alla base di questo apprendimento c’è un fenomeno chiamato &lt;em&gt;entrenchment&lt;/em&gt;, che può essere descritto in breve come&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;the ongoing reorganization and adaptation of communicative knowledge. Entrenchment posits that our linguistic knowledge is continuously refreshed and reorganized under the influence of social interactions. It is part of a larger, ongoing process of lifelong cognitive reorganization whose course and quality is conditioned by exposure to and use of language, and by the application of cognitive abilities and processes to language.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;la continua riorganizzazione ed adattamento del sapere comunicativo. L’&lt;em&gt;entrenchment&lt;/em&gt; assume che le nostre conoscenze linguistiche siano costantemente aggiornate e riorganizzate attraverso le interazioni sociali. Questo è parte di un più ampio processo di riorganizzazione cognitiva - che prosegue nel corso di tutta la vita - e la cui qualità e traiettoria è condizionata dall’esposizione e dall’uso della lingua, e dall’utilizzo di abilità cognitivo per l’elaborazione del linguaggio.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;L’esposizione (diretta o indiretta, attiva o passiva) al linguaggio è dunque fondante per l’acquisizione di nuove competenze linguistiche (ci concentriamo qui su quelle linguistiche, ma lo stesso processo si occupa anche di altre competenze-extra linguistiche). Le attività di analisi e di annotazione - già ampiamente utilizzate nelle classi di ogni ordine e grado - permettono dunque sia di far &lt;strong&gt;emergere&lt;/strong&gt; in maniera più esplicita le &lt;strong&gt;caratteristiche degli elementi linguistici&lt;/strong&gt;; sia di &lt;strong&gt;esporre&lt;/strong&gt; gli studenti ad &lt;strong&gt;esempi reali d’uso&lt;/strong&gt;, vero e proprio carburante del processo di &lt;em&gt;entrenchment&lt;/em&gt;. È per questo motivo che le attività che proponiamo includono una parte di annotazioni di testi, arricchita da concetti mutuati dalle scoperte della linguistica contemporanea.&lt;/p&gt;
+&lt;h2 id=&#34;spunti-per-attività-in-classe&#34;&gt;Spunti per attività in classe&lt;/h2&gt;
+&lt;h3 id=&#34;template-gsuite-per-annotare-le-caratteristiche-linguistiche&#34;&gt;Template GSuite per annotare le caratteristiche linguistiche&lt;/h3&gt;
+&lt;p&gt;Come mettere in pratica l’annotazione dei tre elementi (&lt;em&gt;grammatica&lt;/em&gt;, &lt;em&gt;lessico&lt;/em&gt;, &lt;em&gt;connotazione&lt;/em&gt;) discussi fino ad ora? Abbiamo preparato un template in Google Docs contenente le istruzioni e lo schema di annotazione - senza alcun testo precaricato - che potete trovare (e scaricare, modificare, etc…) a &lt;a href=&#34;https://docs.google.com/document/d/1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;. Più sotto invece trovate delle schede attività già pronte, create usando il template di base.&lt;/p&gt;
+&lt;h3 id=&#34;testo-argomentativo&#34;&gt;Testo argomentativo&lt;/h3&gt;
+&lt;p&gt;Da &lt;a href=&#34;https://docs.google.com/document/d/14xnp7nbh7s1uCywox7Y1ynqZdbXyU-_76IfmwQDVMr8/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt; puoi scaricare un template già pronto per un’attività didattica di annotazione di un brano argomentativo. Si tratta di un recente articolo - apparso su linkiesta.it - dal titolo &lt;em&gt;Strani giorni | Runner, untori e il bisogno di odiare chi esce da casa&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;testo-letterario&#34;&gt;Testo letterario&lt;/h3&gt;
+&lt;p&gt;Da &lt;a href=&#34;https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt; puoi scaricare un template già pronto per un’attività didattica di annotazione di un brano tratto dal capitolo XXI de &lt;em&gt;I Promessi Sposi&lt;/em&gt; (La notte di Lucia e quella dell’Innominato).&lt;/p&gt;
+&lt;h3 id=&#34;un-piccolo-extra&#34;&gt;Un piccolo extra&lt;/h3&gt;
+&lt;p&gt;A partire dagli esercizi che vi abbiamo proposto, ecco due ulteriori spunti che modificano quanto proposto sopra:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analisi di un testo argomentativo “a squadre” (potete utilizzare quello che vi abbiamo già preparato nel template). Gli studenti discutono il tema dell’articolo, dividendosi tra chi è &lt;strong&gt;pro&lt;/strong&gt; e chi è &lt;strong&gt;contro&lt;/strong&gt;: come &lt;strong&gt;output&lt;/strong&gt; finale, può essere registrato un video così da permettere agli studenti di rivedersi e riflettere sulle proprie capacità argomentative.&lt;/li&gt;
+&lt;li&gt;Apprendimento di nuove parole e di nuovi usi della lingua. Usando l’elenco di &lt;strong&gt;parole inattese&lt;/strong&gt;, chiedere agli studenti di produrre (individualmente) un video a commento dell’articolo, cercando di inserire nel discorso il maggior numero di &lt;strong&gt;parole inattese&lt;/strong&gt; - tra quelle individuate. Ad ogni uso viene assegnato 1 punto, che raddoppia laddove una &lt;strong&gt;parola inattesa&lt;/strong&gt; viene utilizzata con un significato o all’interno di una struttura non presente nel testo analizzato.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;limportanza-della-scrittura-collaborativa&#34;&gt;L’importanza della scrittura collaborativa&lt;/h2&gt;
+&lt;p&gt;Scrivere è un’attività faticosa, nella quale lo studente è chiamato a mettere in campo competenze cognitive complesse quali la capacità di analisi, riflessione e pianificazione strutturata dei contenuti.
+Soprattutto in questi giorni, la &lt;strong&gt;tecnologia&lt;/strong&gt; può rivelarsi un’enorme opportunità, offrendoci un approccio diverso alla didattica della scrittura. Gli strumenti digitali infatti, come quelli presenti nella &lt;strong&gt;G-Suite&lt;/strong&gt;, consentono a docenti e studenti di lavorare sul &lt;strong&gt;processo&lt;/strong&gt; di scrittura, che diventa visibile e analizzabile in tutti i passaggi grazie alle “versioni” dei documenti. Collaborare alla stesura di un testo - pratica già ampiamente adottata nelle classi - permette di approfondire non solo le competenze di scrittura, ma anche di lettura, attraverso un processo di &lt;em&gt;peer-review&lt;/em&gt; in cui gli studenti-autori sono anche studenti-lettori e sono coinvolti nelle fasi di correzione. Infatti, la possibilità di commentare “in tempo reale” invita lo studente ad una costante riflessione metalinguistica sul testo, grazie al supporto dei docenti e della classe. La griglia che vi proponiamo nei nostri template per gli esercizi di annotazione funziona anche come guida per la valutazione e l’&lt;em&gt;autovalutazione&lt;/em&gt; per gli studenti: può essere utilizzata per tenere traccia delle parole annotate e quindi servire come griglia di riferimento per le successive fasi di di scrittura e produzione testuale.&lt;/p&gt;
+&lt;h2 id=&#34;note&#34;&gt;Note&lt;/h2&gt;
+&lt;h2 id=&#34;riferimenti-bibliografici&#34;&gt;Riferimenti bibliografici&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;De Beaugrande, R.-A. e Dressler, W. U. (1981). &lt;em&gt;Introduzione alla linguistica testuale&lt;/em&gt;, trad. it. Bologna, Il Mulino, 1984.&lt;/li&gt;
+&lt;li&gt;Bellinzani, D. (2014). &lt;em&gt;La scrittura collaborativa: lo stato della ricerca e uno studio di caso italiano&lt;/em&gt;. LinguaDue, 1.&lt;/li&gt;
+&lt;li&gt;Colella, Massimo (2012). &lt;em&gt;Un’introduzione alla linguistica testuale&lt;/em&gt;. Quaderni del Laboratorio di Linguistica, 11, 1-19.
+&lt;a href=&#34;https://www.academia.edu/32120103/Massimo_Colella_Un_introduzione_alla_Linguistica_Testuale_in_Quaderni_del_Laboratorio_di_Linguistica_Scuola_Normale_Superiore_Pisa_11_2012&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Link all’articolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hunston, Susan (2007). &lt;em&gt;Semantic prosody revisited&lt;/em&gt;. International Journal of Corpus Linguistics. 122. 249-268.  &lt;a href=&#34;https://www.researchgate.net/publication/228929277_Semantic_prosody_revisited&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Link all’articolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;McGee, I. (2012). &lt;em&gt;Should We Teach Semantic Prosody Awareness?&lt;/em&gt; RELC Journal, 43(2), 169–186. &lt;a href=&#34;https://doi.org/10.1177/0033688212449485&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Link all’articolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schmid, . &lt;em&gt;Entrenchment and the Psychology of Language Learning:How We Reorganize and Adapt Linguistic Knowledge&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1515/9783110341423&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Link al sito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stewart, D. (2010). &lt;em&gt;Semantic Prosody&lt;/em&gt;. New York: Routledge. &lt;a href=&#34;https://doi.org/10.4324/9780203870075&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Link al sito&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;da Franzini, M., 2012.
+&lt;a href=&#34;https://www.academia.edu/3735690/Occorrenze_collocazioni_e_semantic_prosody_dell_espressione_sostantivo_all_italiana_in_italiano_inglese_e_tedesco_un_indagine_corpus-driven&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;“Occorrenze, collocazioni e semantic prosody dell’espressione “sostantivo + all’italiana” in italiano, inglese e tedesco: un’indagine corpus-driven”&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Schmid 2017 prefazione &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leggere i testi letterari con strumenti computazionali | alcuni consigli per facilitare lo studio e migliorare la comprensione</title>
+      <link>l4l_test/materiali/materiali-didattici/comprensione-1/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/comprensione-1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;introduzione-dalla-lettura-tradizionale-alla-lettura-a-distanza&#34;&gt;Introduzione: dalla lettura &amp;ldquo;&lt;em&gt;tradizionale&lt;/em&gt;&amp;rdquo; alla lettura &amp;ldquo;&lt;em&gt;a distanza&lt;/em&gt;&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Alla base del &lt;strong&gt;distant reading&lt;/strong&gt; c’è l’idea (provocatoria) di &lt;em&gt;studiare la letteratura senza leggere libri&lt;/em&gt;. L’approccio quantitativo proposto da Franco Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura &amp;ldquo;&lt;em&gt;tradizionale&lt;/em&gt;&amp;quot;. Lo &lt;a href=&#34;https://litlab.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Stanford Literary Lab&lt;/a&gt; prosegue il lavoro sulla teoria e la metodologia del &lt;em&gt;distant reading&lt;/em&gt; anche attraverso la pubblicazione di brevi &lt;a href=&#34;https://litlab.stanford.edu/pamphlets/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;pamphlet&lt;/em&gt;&lt;/a&gt; che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio &lt;em&gt;distant reading&lt;/em&gt; è stata pubblicata dal &lt;a href=&#34;https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html&#34; target=&#34;_blank&#34;&gt;New York Times&lt;/a&gt;; un articolo di approfondimento è invece &lt;a href=&#34;http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html&#34; target=&#34;_blank&#34;&gt;disponibile a questo link&lt;/a&gt;.&lt;br&gt;
+Ulteriori riferimenti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nytimes.com/2017/10/30/arts/franco-moretti-stanford-literary-lab-big-data.html&#34;&gt;&lt;em&gt;Reading by the Numbers: When Big Data Meets Literature&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.einaudi.it/catalogo-libri/critica-letteraria-e-linguistica/filologia-e-critica-letteraria/la-letteratura-vista-da-lontano-franco-moretti-9788806172893/&#34;&gt;&lt;em&gt;La letteratura vista da lontano&lt;/em&gt;&lt;/a&gt;, il testo col quale Franco Moretti ha &amp;ldquo;fondato&amp;rdquo; la &lt;em&gt;lettura a distanza&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lindiceonline.com/osservatorio/franco-moretti-un-paese-lontano/&#34;&gt;Recensione di &lt;em&gt;Un paese lontano&lt;/em&gt;, di Franco Moretti&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;la-lettura-a-distanza-in-classe&#34;&gt;La lettura &amp;ldquo;&lt;em&gt;a distanza&lt;/em&gt;&amp;rdquo; in classe&lt;/h2&gt;
+&lt;p&gt;Quali strategie sono efficaci per facilitare la lettura e la comprensione delle opere letterarie a scuola? Affiancando e supportando la lettura tradizionale dei testi (&lt;strong&gt;close reading&lt;/strong&gt;), la lettura a distanza (&lt;strong&gt;distant reading&lt;/strong&gt;) permette allo studente di allargare il proprio campo di indagine, aiutandolo a ricercare collegamenti e interconnessioni tra opere letterarie prodotte in un dato contesto storico e sociale, ma anche tra opere appartenenti ad autori e a correnti letterarie diverse. Il &lt;strong&gt;distant reading&lt;/strong&gt; si rivela così uno strumento efficace nelle fasi di rielaborazione e ripasso dei contenuti affrontati e studiati in classe sotto la guida del docente.&lt;/p&gt;
+&lt;h3 id=&#34;lettura-a-distanza-con-gsuite&#34;&gt;Lettura &amp;ldquo;a distanza&amp;rdquo; con GSuite&lt;/h3&gt;
+&lt;p&gt;Vi proponiamo un’attività di annotazione sui personaggi dell’Orlando Furioso da svolgere su un documento Google. Vi invitiamo a copiare i nostri template direttamente nelle vostre cartelle di lavoro in modo da averli disponibili per far lavorare i vostri studenti individualmente o in modalità collaborativa. E se poi volete lavorare su altri testi letterari, potete semplicemente copiare le istruzioni e riproporre la stessa analisi su, ad esempio, &lt;strong&gt;I Promessi Sposi&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Se ti vuoi cimentare anche con la &lt;em&gt;quarantana&lt;/em&gt;, abbiamo precaricato tutto il testo su Voyant: puoi iniziare a sperimentare
+&lt;a href=&#34;https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;corpus=c850b8189159af05b737162c610ccef4&#34; target=&#34;_blank&#34;&gt;usando questo link.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Qui trovate 3 template con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1eDBRHC8bn77l17FybXi24rEb9Oj6_yeKC99IxfJsHOQ/edit&#34; target=&#34;_blank&#34;&gt;Canto I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1pbQFT2vCh70Gp0bZtdM-pdMRMPIR7Z8uZnWdHtmkr1M/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Canto XII&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1b5efKblb1NU-H620-V5NrtYgHHdjdDXQk0aCRV2sIYk/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Canto XXIII&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lettura-a-distanza-con-voyant&#34;&gt;Lettura &amp;ldquo;a distanza&amp;rdquo; con Voyant&lt;/h3&gt;
+&lt;p&gt;L’attività proposta con GSuite può essere svolta anche con uno strumento pensato appositamente per la lettura “a distanza” di testi letterari, Voyant. Abbiamo precaricato il testo completo di &lt;em&gt;Orlando Furioso&lt;/em&gt; su Voyant; puoi accedere al progetto tramite &lt;a href=&#34;https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;esempio-1-le-emozioni-dellopera&#34;&gt;Esempio 1: le emozioni dell’opera&lt;/h2&gt;
+&lt;p&gt;Quali sono le emozioni più significative nel poema? Quali nei canti specifici? A quali personaggi si riferiscono?
+Noi abbiamo fatto una prova con &amp;ldquo;amore&amp;rdquo;.
+Nel grafico degli  &lt;a href= &#34;https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&amp;view=Trends&amp;query=amor*&amp;query=paur*&amp;query=furor*&#34; target=&#34;_blank&#34;&gt; andamenti di &amp;ldquo;furor*&amp;quot;, &amp;ldquo;amor*&amp;quot;, &amp;ldquo;paur*&amp;rdquo; &lt;/a&gt; notiamo un’alta frequenza relativa di &amp;ldquo;amor*&amp;rdquo; nei canti 5, 13, 36. Perchè? Andiamo a vedere in &lt;a href=&#34;https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&amp;view=Contexts&amp;query=amor*&#34; target=&#34;_blank&#34;&gt;Contesti&lt;/a&gt; le specifiche occorrenze della parola nei vari canti, che potremo consultare integralmente nel &lt;a href=&#34;https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&amp;view=Reader&#34; target=&#34;_blank&#34;&gt;Lettore&lt;/a&gt;. Scopriremo che nel canto 5 si parla d’amore per il racconto di Dalinda (&lt;em&gt;Crudele Amore&lt;/em&gt;, &lt;em&gt;mio amator&lt;/em&gt;, &lt;em&gt;amoroso gioco&lt;/em&gt;, &lt;em&gt;amava poco&lt;/em&gt;, &lt;em&gt;ardea per tutto il cor&lt;/em&gt;, &lt;em&gt;immensa fiamma&lt;/em&gt;), mentre nel 36 per l’incontro tra Ruggiero, Marfisa e Bradamante in cui emergono i loro sentimenti (&lt;em&gt;l’innamorato giovine&lt;/em&gt;, &lt;em&gt;ch’ama amendue, l’un fiamma e furore, l’altro benivolenza piú ch’amore&lt;/em&gt;, &lt;em&gt;amorosa lancia&lt;/em&gt;, &lt;em&gt;avea nel cor fissa Bradamante&lt;/em&gt;). Si parla però di amori molto diversi, come ci raccontano le ottave!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-andamenti-di-furor-amor-paur&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/esempio1a.PNG&#34; data-caption=&#34;Andamenti di furor*, amor*, paur*&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/esempio1a.PNG&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Andamenti di &lt;em&gt;furor*&lt;/em&gt;, &lt;em&gt;amor*&lt;/em&gt;, &lt;em&gt;paur*&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-contesti-di-amor&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/esempio1b.PNG&#34; data-caption=&#34;Contesti di amor*&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/esempio1b.PNG&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Contesti di &lt;em&gt;amor*&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;esempio-2-il-tema-della-pazzia&#34;&gt;Esempio 2: il tema della pazzia&lt;/h2&gt;
+&lt;p&gt;La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?
+Osserviamo dal grafico degli &lt;a href=&#34;https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&amp;view=Trends&amp;query=senno&amp;query=pazz*&amp;query=folle&amp;query=furor*&#34; target=&#34;_blank&#34;&gt;andamenti&lt;/a&gt; di furor*, pazz*, senno che nel canto 29 c’è una altissima frequenza di &amp;ldquo;pazz*&amp;quot;, ma non solo: è anche l’unico caso in cui la follia è caratterizzata dal furore. Ma la follia di chi? Che cosa accade nel canto? Ariosto dice (29,50): &amp;ldquo;Pazzia sará, se le pazzie d’Orlando prometto raccontarvi ad una ad una; che tante e tante fur, ch’io non so quando finir&amp;rdquo;. Nel resto del canto troviamo altri riferimenti alla follia di Orlando: &lt;em&gt;O degli uomini inferma e instabil mente!&lt;/em&gt;, &lt;em&gt;il pazzo orlando&lt;/em&gt;, &lt;em&gt;il furioso conte&lt;/em&gt;, &lt;em&gt;de la follia che cosí nudo il mena&lt;/em&gt;, &lt;em&gt;Orlando in cui non cessa l’impeto e la rabbia&lt;/em&gt;.
+E adesso sorge un’altra domanda: come sarà la follia nel resto dell’opera? Proviamo a scoprirlo con lo stesso approccio.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-andamenti-di-furor-pazz-senno-folle&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/esempio2.PNG&#34; data-caption=&#34;Andamenti di furor*, pazz*, senno, folle&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/esempio2.PNG&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Andamenti di &lt;em&gt;furor*&lt;/em&gt;, &lt;em&gt;pazz*&lt;/em&gt;, &lt;em&gt;senno&lt;/em&gt;, &lt;em&gt;folle&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;esempio-3-la-figura-della-donna-lesempio-di-bradamante&#34;&gt;Esempio 3: la figura della donna: l’esempio di Bradamante&lt;/h2&gt;
+&lt;p&gt;Come sono caratterizzate le figure femminili dell’opera? Ti sembra che ce ne sia qualcuna che non rispetta i canoni tradizionali dell’epoca?
+Nella visualizzazione che ci mostra i &lt;a href= &#34;https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&amp;query=donn*&amp;context=15&amp;panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;view=Contexts&#34; target=&#34;_blank&#34;&gt;Contesti della parola donn*&lt;/a&gt; scopriamo che alcune delle parole che ricorrono più frequentemente in associazione a &amp;ldquo;donna&amp;rdquo; appartengono alla sfera semantica dell’amore (&lt;em&gt;dolce&lt;/em&gt;, &lt;em&gt;amoroso affetto&lt;/em&gt;, &lt;em&gt;amorosa cura&lt;/em&gt;, &lt;em&gt;ardore&lt;/em&gt;) e della bellezza (&lt;em&gt;bella&lt;/em&gt;, &lt;em&gt;angelico sembiante&lt;/em&gt;, &lt;em&gt;bel volto&lt;/em&gt;). Riesci a trovarne altre, magari opposte a queste, o legate ad un personaggio femminile in particolare? Che cosa ci dicono queste caratteristiche linguistiche sul ruolo della donna nella letteratura cavalleresca? Prova a riflettere su altre correnti letterarie che hai studiato (es. la figura della &lt;em&gt;donna angelo&lt;/em&gt; nel Dolce Stil Novo).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-contesti-di-donna&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/donna.png&#34; data-caption=&#34;Contesti di donna&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/donna.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Contesti di &lt;em&gt;donna&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-contesti-di-bradamante&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/Bradamante.png&#34; data-caption=&#34;Contesti di Bradamante&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/Bradamante.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Contesti di &lt;em&gt;Bradamante&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;spunti-per-altre-attività-in-classe&#34;&gt;Spunti per altre attività in classe&lt;/h2&gt;
+&lt;p&gt;Ma quali sono le cose interessanti da vedere con Voyant? Se non te ne fossero venute già in mente, ti proponiamo qui alcuni spunti per ulteriori attività su testi letterari da svolgere con Voyant. Tutte le attività si riferiscono ad opere letterarie in Italiano, ma Voyant funziona con testi in qualsiasi lingua!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Argomento&lt;/th&gt;
+&lt;th&gt;Domanda&lt;/th&gt;
+&lt;th&gt;Parole chiave&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Personaggi&lt;/td&gt;
+&lt;td&gt;Come si caratterizzano i personaggi? Emergono dal testo delle associazioni significative?&lt;/td&gt;
+&lt;td&gt;Orlando, Rinaldo, Angelica…&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stile della narrazione&lt;/td&gt;
+&lt;td&gt;Quali sono le espressioni registiche di Ariosto che evidenziano l’andamento a zig-zag dei personaggi? (Nota: molte delle espressioni sono già raccolte dalla funzione Sintagmi/Phrases)&lt;/td&gt;
+&lt;td&gt;di su, di giu, una strada a questa a quella; seguitiamo; torniamo; lascio; torno (queste 4 ultime sono quelle dove ariosto fa &amp;ldquo;da regista&amp;rdquo;); anche: &amp;ldquo;l’un fugge, e l’altro caccia&amp;rdquo;, sopra/sotto, Or l&amp;rsquo;uno or l&amp;rsquo;altro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Temi&lt;/td&gt;
+&lt;td&gt;La frequenza delle parole legate alla pazzia di Orlando ci dice qualcosa sulla centralità del tema nell’opera?&lt;/td&gt;
+&lt;td&gt;Furore, follia, male, pazz*, senno, turba*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Episodi: il castello di Atlante (canto XII)&lt;/td&gt;
+&lt;td&gt;Qual è la sfera lessicale dell’episodio?&lt;/td&gt;
+&lt;td&gt;par* (pare, parere)/sembianz*/segret*, &amp;ldquo;apparenza&amp;rdquo; e &amp;ldquo;vanità&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Parole&lt;/td&gt;
+&lt;td&gt;Quali significati ha parola &amp;ldquo;selva&amp;rdquo;? Chi si muove nella selva? Ci sono personaggi che non entrano nella selva?&lt;/td&gt;
+&lt;td&gt;Selva&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Parole&lt;/td&gt;
+&lt;td&gt;Come viene delineata la figura del pagano?&lt;/td&gt;
+&lt;td&gt;pagan*, saracin (saraceno)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lessico&lt;/td&gt;
+&lt;td&gt;Com’è caratterizzato il filone narrativo militare? Le armi sono derise, temute, etc…? trovare due parti del testo in cui stessa parola ha usi diversi/opposti&lt;/td&gt;
+&lt;td&gt;guerra, arm*, cavalier*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tema&lt;/td&gt;
+&lt;td&gt;La ricerca di orlando alla fine si rivela inutile?&lt;/td&gt;
+&lt;td&gt;invan*, vano, vani, desider*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Luoghi&lt;/td&gt;
+&lt;td&gt;Che rapporto c’è tra luoghi reali e luoghi magici? Ci sono dei luoghi simbolici?&lt;/td&gt;
+&lt;td&gt;parigi, castello (africa, grotta, palazzo...)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Personaggi&lt;/td&gt;
+&lt;td&gt;Come sono caratterizzate le figure femminili dell’opera? Ti sembra che ce ne sia qualcuna che non rispetta i canoni tradizionali dell’epoca? (Bradamante)&lt;/td&gt;
+&lt;td&gt;Bradamante, guerriera? innamorata? donzell*, donn*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stile della narrazione&lt;/td&gt;
+&lt;td&gt;Nell’Orlando Furioso sembra che non esistano più barriere spazio-temporali. Riesci a trovare degli esempi?&lt;/td&gt;
+&lt;td&gt;andar*, muov*, camin*,&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stile della narrazione&lt;/td&gt;
+&lt;td&gt;Quali sono i suoni dell’Orlando Furioso?&lt;/td&gt;
+&lt;td&gt;sentir*, rumor*,&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lessico&lt;/td&gt;
+&lt;td&gt;Quante volte compare il termine &amp;ldquo;labirinto&amp;rdquo; nell’Orlando Furioso? In quali passi? (compare tre volte)&lt;/td&gt;
+&lt;td&gt;labirint*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Temi&lt;/td&gt;
+&lt;td&gt;Quali sono le emozioni più significative nel poema? E nei canti specifici?&lt;/td&gt;
+&lt;td&gt;amor*, furor*, rabb*, paur*...&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Temi&lt;/td&gt;
+&lt;td&gt;Come si configura il sentimento dell’amore nell’opera?&lt;/td&gt;
+&lt;td&gt;[amore vano di Orlando per Angelica] [amore a lieto fine di Ruggero e Bradamante]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Collegamenti&lt;/td&gt;
+&lt;td&gt;Come viene rappresentata la figura di Bradamante ne &amp;ldquo;L’Orlando Innamorato&amp;rdquo; di Boiardo e ne &amp;ldquo;Le città invisibili&amp;rdquo; di Calvino? Ti sembra ci siano delle differenze o dei punti in comune tra queste tre opere?&lt;/td&gt;
+&lt;td&gt;Bradamante&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Riferimenti intertestuali&lt;/td&gt;
+&lt;td&gt;Possiamo fare dei parallelismi tra la pazzia di Orlando e quella di Ercole nell’Hercules Furens senecano?&lt;/td&gt;
+&lt;td&gt;furore...&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;risorse-esterne-sullorlando-furioso&#34;&gt;Risorse esterne sull’Orlando Furioso&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://galassiaariosto.sns.it/&#34; target=&#34;_blank&#34;&gt;Galassia Ariosto&lt;/a&gt; è un progetto creato da &lt;em&gt;CTL Scuola Normale Superiore di Pisa&lt;/em&gt; che raccoglie gli apparati iconografici delle principali edizioni cinquecentesche illustrate del Furioso, permettendo di navigare il testo attraverso le immagini. Sono inoltre presenti dei percorsi, attraverso i quali il gruppo di ricerca ha voluto mettere in luce le potenzialità interpretative che la consultazione di &lt;em&gt;Galassia Ariosto&lt;/em&gt; è in grado di suscitare.&lt;/p&gt;
+&lt;p&gt;L’&lt;a href=&#34;http://www.furiosoatlas.com/atlas.html&#34; target=&#34;_blank&#34;&gt;Orlando Furioso Atlas&lt;/a&gt; è un progetto in lingua inglese sviluppato dal Prof. Daniel Leisawitz (Muhlenberg College) con lo scopo di tradurre e rappresentare in modo digitale e interattivo la cartografia del mondo costruito da Ludovico Ariosto nell’&lt;em&gt;Orlando Furioso&lt;/em&gt;, conosciuto in inglese come &lt;em&gt;The Frenzy of Orlando&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;primi-passi-con-voyant&#34;&gt;Primi passi con Voyant&lt;/h2&gt;
+&lt;p&gt;In questa sezione trovate alcuni consigli per muovere i primi passi con Voyant: dall’utilizzo dei singoli strumenti, alla creazione di un dataset personalizzato.
+Iniziamo con una breve panoramica dei 5 strumenti che abbiamo scelto per usare la &lt;em&gt;distant reading&lt;/em&gt; su testi di letteratura: cliccando su &lt;a href=&#34;https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;
+si aprirà il dataset contenente tutta l’opera Orlando Furioso. L’interfaccia si presenterà come raffigurato nell’immagine qui sotto:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-interfaccia-di-voyant&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/orlando_voyant_menu.jpg&#34; data-caption=&#34;Interfaccia di Voyant&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/orlando_voyant_menu.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Interfaccia di Voyant
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I 5 strumenti precaricati sono solo una piccola parte di quelli che Voyant mette a disposizione! Abbiamo selezionato quelli più utili per svolgere le attività proposte, ma in ogni momento puoi provare ad usare altre funzionalità. Qualsiasi modifica che farai all’interfaccia &lt;strong&gt;è temporanea, e visibile solo dall’utente che la sta utilizzando&lt;/strong&gt;, quindi nessun timore: sperimenta funzioni diverse e scopri quali altre potrebbero esserti utili. Per ogni strumento e per l’interfaccia complessiva (la barra blu in cima alla pagina) sono disponibili 4 pulsanti: &lt;img src=&#34;4opzioni.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../comprensione-1/share.jpg&#34; alt=&#34;&#34;&gt;permette di creare un link diretto allo strumento (o all’interfaccia) selezionata, completa dei risultati prodotti.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/cambiastrumento.jpg&#34; alt=&#34;&#34;&gt;attraverso questo pulsante puoi selezionare uno strumento diverso tra quelli che Voyant offre.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/opzionistrumento.jpg&#34; alt=&#34;&#34;&gt;questo pulsante permette di accedere alle opzioni dello strumento attivo.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/helpstrumento.jpg&#34; alt=&#34;&#34;&gt;accedi alla guida dello strumento attivo.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;https://voyant-tools.org/docs/&#34; target=&#34;_blank&#34;&gt;guida online di Voyant&lt;/a&gt; contiene una dettagliata descrizione di tutti gli strumenti, oltre alle istruzioni su come usare la piattaforma per creare dataset personalizzati.&lt;/p&gt;
+&lt;p&gt;Le funzioni che abbiamo scelto - ed esemplificato nell’immagine sopra - sono:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Collocates/Collocati&lt;/strong&gt;: parole che co-occorrono, che si trovano insieme più frequentemente, dato un certo contesto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reader/Lettore&lt;/strong&gt;: permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trends/Andamenti&lt;/strong&gt;: presenta un grafico dell’andamento della frequenza relativa delle parole nel documento, o della parola/e selezionate negli altri strumenti. Il grafico si aggiorna &amp;ldquo;live&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phrases/Sintagmi&lt;/strong&gt;: mostra le combinazioni &lt;em&gt;fisse&lt;/em&gt; di parole più frequenti nel testo/i.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dreamscape&lt;/strong&gt;: è una funzione sperimentale (che produce risultati spesso imprecisi) che estrae i nomi di luoghi presenti nel testo, e li visualizza su una mappa geografica, creando automaticamente un &amp;ldquo;viaggio&amp;rdquo; tra i diversi luoghi basato sull’ordine di apparizione dei luoghi nel testo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;ricerca-avanzata-di-parole-o-frasi-con-voyant&#34;&gt;Ricerca avanzata di parole o frasi con Voyant&lt;/h3&gt;
+&lt;p&gt;Voyant supporta l’utilizzo di espressioni regolari: di seguito un elenco delle espressioni supportate, corredate da esempi.&lt;/p&gt;
+&lt;ul style=&#34;margin-top: 3px; margin-bottom: 3px;&#34;&gt;&lt;li&gt;&lt;b&gt;cappotto&lt;/b&gt;: trova il termine esatto &lt;i&gt;cappotto&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto*&lt;/b&gt;: trova termini che iniziano con &lt;i&gt;cappotto&lt;/i&gt; come termine singolo&lt;/li&gt;&lt;li&gt;&lt;b&gt;^cappott*&lt;/b&gt;: trova termini che iniziano con &lt;i&gt;cappott&lt;/i&gt; come termine separato (cappotto, cappotti, ecc.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto, giacca &lt;/b&gt;: trova ogni termine separato da virgole come termine separato&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto | giacca&lt;/b&gt;: trova termini separati dalla barra come singolo termine&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#34;cappotto invernale&#34;&lt;/b&gt;: &lt;i&gt;cappotto invernale&lt;/i&gt; come sintagma&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#34;guanti cappotto&#34;~ 5&lt;/b&gt;: &lt;i&gt;cappotto&lt;/i&gt; nei pressi di &lt;i&gt; guanti&lt;/i&gt; (entro 5 termini )&lt;/li&gt;&lt;li&gt;&lt;b&gt; ^cappott*, giacca | parka,&#34;guanti cappotto&#34;~ 5&lt;/b&gt;: combina le sintassi&lt;/li&gt;&lt;/ul&gt;
+&lt;h2 id=&#34;dove-trovare-opere-complete-da-caricare-su-voyant&#34;&gt;Dove trovare opere complete da caricare su Voyant&lt;/h2&gt;
+&lt;p&gt;Ecco un breve elenco di siti (legali!) dai quali scaricare opere complete in formato di testo semplice (&lt;code&gt;.txt&lt;/code&gt;) da usare con Voyant.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;Project Gutenberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://it.wikisource.org/wiki/Pagina_principale&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;WikiSource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.liberliber.it/online/&#34; rel=&#34;&#34; target=&#34;_blank&#34;&gt;LiberLiber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lingua Italiana e didattica digitale | consigli, suggerimenti e buone pratiche</title>
+      <link>l4l_test/materiali/materiali-didattici/linguistica-e-didattica/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/linguistica-e-didattica/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;slide-del-webinar&#34;&gt;Slide del webinar&lt;/h2&gt;
+&lt;p&gt;Questi materiali sono stati creati per l&amp;rsquo;omonimo webinar del 26/03/2020. Puoi trovare le slide del webinar a &lt;a href=&#34;https://docs.google.com/presentation/d/1pu8b3L7J1aJ5fAxT6sb9XZ1IBkbcTC8klgbXqq8l-CE&#34; rel=&#34;FEM Future Education Modena&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;1-linguistica-che-cosè-che-cosa-ci-insegna-come-può-essere-utilizzata-per-favorire-lapprendimento-una-chiacchierata-con-i-linguisti&#34;&gt;1. Linguistica: che cos’è? Che cosa ci insegna? Come può essere utilizzata per favorire l’apprendimento? Una chiacchierata con i linguisti&lt;/h2&gt;
+&lt;h3 id=&#34;introduzione&#34;&gt;Introduzione&lt;/h3&gt;
+&lt;p&gt;In questa prima parte affronteremo due argomenti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Che cos’è la linguistica? 4 concetti chiave.
+&lt;ul&gt;
+&lt;li&gt;Lo studio scientifico del linguaggio naturale&lt;/li&gt;
+&lt;li&gt;Studiare la società e le sue dinamiche&lt;/li&gt;
+&lt;li&gt;La grammatica non esiste&lt;/li&gt;
+&lt;li&gt;I significati cambiano con l’uso delle parole&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Che cosa sono le metafore concettuali?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-annotazione-linguistica-in-classe-esercizi-di-comprensione-del-testo&#34;&gt;2. Annotazione linguistica in classe: esercizi di comprensione del testo&lt;/h2&gt;
+&lt;p&gt;Tra le nostre attività (disponibili &lt;a href=&#34;https://www.fem.digital/scuola/&#34; target=&#34;_blank&#34;&gt;qui&lt;/a&gt;), vi proponiamo un approccio inedito alla &lt;strong&gt;comprensione del testo&lt;/strong&gt; per riflettere sull’&lt;strong&gt;evidenzialità&lt;/strong&gt;, ovvero le modalità con cui le informazioni vengono riportate all’interno di un testo e che determinano l’attendibilità di una fonte, e le &lt;strong&gt;metafore concettuali&lt;/strong&gt;, ovvero l’uso di espressioni linguistiche metaforiche per la rappresentazione di un dato argomento.
+Abbiamo scelto di portare in classe un’operazione fondamentale in linguistica computazionale, l’&lt;strong&gt;annotazione del testo&lt;/strong&gt;, tramite &lt;em&gt;Doccano&lt;/em&gt;, uno strumento open-source per la classificazione e l’annotazione di testi di qualunque tipo.
+Vediamo adesso gli step da seguire per utilizzarlo al meglio.&lt;/p&gt;
+&lt;h3 id=&#34;video-tutorial-alluso-della-piattaforma&#34;&gt;Video-tutorial all’uso della piattaforma&lt;/h3&gt;
+&lt;p&gt;Ora vi guideremo passo passo nello svolgimento dell’attività &lt;strong&gt;Comprensione del testo&lt;/strong&gt;; la procedura è illustrata nelle slide dalla n.14 alla n.25. Di seguito, un video-tutorial sull’uso della piattaforma di annotazione (&lt;em&gt;doccano&lt;/em&gt;)&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tzLIxXLdHDI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;step-1-accedere-alla-piattaforma&#34;&gt;Step 1: Accedere alla piattaforma&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Collegarsi al sito seguendo &lt;a href=&#34;http://doccano.fem.digital/&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fare il &lt;strong&gt;login&lt;/strong&gt;. Se si accede per la prima volta, si può&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Fare login col proprio account Google&lt;/li&gt;
+&lt;li&gt;Registrare un nuovo account&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La piattaforma vi reindizzerà alla pagina &lt;em&gt;Projects&lt;/em&gt;, contenente i dataset per le diverse attività.&lt;/p&gt;
+&lt;h3 id=&#34;step-2-iniziare-lattività&#34;&gt;Step 2: Iniziare l’attività&lt;/h3&gt;
+&lt;p&gt;Dopo aver selezionato il progetto &lt;strong&gt;Comprensione del Testo | Climate Change&lt;/strong&gt; (nella pagina Projects) sarà possibile iniziare l’attività.
+Le componenti fondamentali sono&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Articoli&lt;/li&gt;
+&lt;li&gt;Etichette&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;step-3-svolgere-lattività-su-doccano&#34;&gt;Step 3: Svolgere l’attività su doccano&lt;/h3&gt;
+&lt;p&gt;Si richiede di annotare la parte di testo che manifesta una delle caratteristiche espresse dalle etichette.  Si lavora su due livelli&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evidenzialità&lt;/strong&gt; (Opinione - Fonte assente - Fonte certa - Fonte incerta)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Metafore&lt;/strong&gt; (Dominio bersaglio - Dominio sorgente)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-esempi-pratici-e-strumenti-digitali-per-attività-didattiche&#34;&gt;3. Esempi pratici e strumenti digitali per attività didattiche&lt;/h2&gt;
+&lt;p&gt;In questa sezione vi parleremo di due &lt;em&gt;case studies&lt;/em&gt; provenienti dal mondo dell’ingegneria civile e della medicina, in cui la linguistica è stata fondamentale per rispondere a problemi ed esigenze reali degli studenti. Infine vi presenteremo &lt;strong&gt;Voyant Tools&lt;/strong&gt; con alcuni esempi di applicazione, sperando che possa essere d’ispirazione per le vostre attività future.&lt;/p&gt;
+&lt;h3 id=&#34;linguistica-per-i-linguaggi-tecnici-e-specialistici-il-caso-dellingegneria-civile&#34;&gt;Linguistica per i linguaggi tecnici e specialistici: il caso dell’Ingegneria Civile&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-homepage-del-progetto-civil-engineering-writing-project&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../linguistica-e-didattica/cew.jpg&#34; data-caption=&#34;Homepage del progetto Civil Engineering Writing Project&#34;&gt;
+
+
+  &lt;img src=&#34;../linguistica-e-didattica/cew.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Homepage del progetto &lt;em&gt;Civil Engineering Writing Project&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Il progetto &lt;a href=&#34;http://www.cewriting.org/&#34; target=&#34;_blank&#34;&gt;Civil Engineering Writing Project&lt;/a&gt; esemplifica bene l’applicazione di metodi e strumenti linguistici al servizio del linguaggio specialistico/tecnico. Lo scopo del progetto, condotto dalla professoressa Susan Conrad (Portland State University), è quello di affrontare “il divario tra le competenze di scrittura degli studenti, e le competenze richieste sul (futuro) luogo di lavoro” (v. &lt;a href=&#34;http://www.cewriting.org/&#34; target=&#34;_blank&#34;&gt;homepage del progetto&lt;/a&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;come&lt;/strong&gt;: attraverso un’analisi linguistica di testi reali di Ingegneria Civile, prodotti da professionisti e da studenti. Si tratta di documenti tecnici, che fanno parte del lavoro quotidiano di professionisti: report, documentazione, email.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;risultati&lt;/strong&gt;: L’analisi ha prodotto quattro macrocategorie di risultati che riguardano le seguenti caratteristiche linguistiche “tipiche” dei documenti tecnici di Ingegneria Civile: i) struttura della frase; ii) format attiva vs forma passiva; iii) organizzazione del testo - struttura argomentativa; iv) errori. Per ognuna di queste macrocategorie sono stati identificati i valori “medi” nei documenti redatti dai professionisti, e nei documenti redatti dagli studenti. Questa comparazione è poi servita per sviluppare materiali didattici per l’insegnamento del linguaggio dell’Ingegneria Civile, così come metodi di valutazione degli scritti prodotti dagli studenti.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;linguistica-per-la-medicina&#34;&gt;Linguistica per la Medicina&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../linguistica-e-didattica/metaphor%20medicine.png&#34; &gt;
+
+
+  &lt;img src=&#34;../linguistica-e-didattica/metaphor%20medicine.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Diversi ambiti della linguistica, tra cui l’analisi del discorso e delle metafore concettuali, sono stati applicati allo studio della comunicazione medica, evidenziando alcune tra le caratteristiche linguistiche tipiche dell’interazione tra medico e paziente. In medicina, più che in altri contesti specialistici, la lingua si è rivelata efficace non solo come strumento indispensabile al paziente per esprimersi e comunicare sensazioni corporee e sintomi, ma anche e soprattutto come risorsa che, se ben sfruttata, è in grado di modificare la percezione stessa del paziente e la sua esperienza con la malattia. Nel progetto &lt;a href=&#34;http://ucrel.lancs.ac.uk/melc/index.php&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Metaphor in the end-of-life care&lt;/em&gt;&lt;/a&gt; Elena Semino, docente di linguistica dell’università di Lancaster, analizza come il linguaggio metaforico sia stato utilizzato da pazienti in fasi terminali della malattia, dai loro famigliari, che spesso ricoprono il ruolo di caregivers, e dal personale medico sanitario. L’analisi è stata effettuata su un corpus di 1,5 milioni di parole creato a partire da interviste medico-paziente e da dati raccolti su forum online. I dati sono stati analizzati utilizzando &lt;strong&gt;W-Matrix&lt;/strong&gt;, un software per l’analisi linguistica quantitativa, che permette di annotare i domini semantici della metafora. Tra i risultati più interessanti, Semino evidenzia la presenza ricorrente di due categorie di metafore concettuali: le cosiddette metafore “di violenza”, in prevalenza metafore belliche, in cui la malattia viene concettualizzata come guerra, e le metafore “del viaggio”, considerate sotto certi aspetti più positive rispetto alle prime. Lo studio mette in luce come la percezione dei pazienti cambi in relazione al tipo di metafora scelta per descrivere la malattia: le metafore belliche possono offrire al paziente uno stimolo a reagire, ed essere dunque di supporto motivazionale oppure, al contrario, generare frustrazione e un senso di impotenza derivante dalla sconfitta.&lt;/p&gt;
+&lt;h3 id=&#34;lo-strumento-voyant--close-e-distant-reading-di-testi&#34;&gt;Lo strumento &lt;em&gt;Voyant&lt;/em&gt; | &lt;em&gt;close&lt;/em&gt; e &lt;em&gt;distant reading&lt;/em&gt; di testi&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-interfaccia-della-piattaforma-voyant&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../linguistica-e-didattica/voyant.jpg&#34; data-caption=&#34;Interfaccia della piattaforma Voyant&#34;&gt;
+
+
+  &lt;img src=&#34;../linguistica-e-didattica/voyant.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Interfaccia della piattaforma Voyant
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Creato da Stéfan Sinclair (McGill University) e Geoffrey Rockwell (University of Alberta), a partire dalla teoria del &lt;strong&gt;Distant Reading&lt;/strong&gt; sviluppata da Franco Moretti per l’esplorazione quantitativa e “distante” (ovvero, senza leggere i testi) della letteratura.
+Alla base del &lt;strong&gt;Distant Reading&lt;/strong&gt; c’è l’idea (provocatoria) di &lt;em&gt;studiare la letteratura senza leggere libri&lt;/em&gt;. L’approccio quantitativo proposto da Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi dettagli, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura “&lt;em&gt;tradizionale&lt;/em&gt;”. Lo &lt;a href=&#34;https://litlab.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Stanford Literary Lab&lt;/a&gt; prosegue il lavoro sulla teoria e la metodologia del &lt;em&gt;distant reading&lt;/em&gt; anche attraverso la pubblicazione di brevi &lt;a href=&#34;https://litlab.stanford.edu/pamphlets/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;pamphlet&lt;/em&gt;&lt;/a&gt; che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio &lt;em&gt;Distant Reading&lt;/em&gt; è stata pubblicata dal &lt;a href=&#34;https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html&#34; target=&#34;_blank&#34;&gt;New York Times&lt;/a&gt;; un articolo di approfondimento è invece &lt;a href=&#34;http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html&#34; target=&#34;_blank&#34;&gt;disponibile a questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://www.voyant-tools.org/&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt; è possibile accedere alla versione web dello strumento, che &lt;strong&gt;supporta anche l&amp;rsquo;accesso da smartphone&lt;/strong&gt;. In alternativa è possibile scaricare una versione da eseguire sul proprio computer (Windows, MacOS, Linux) da &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases&#34; target=&#34;_blank&#34;&gt;questa pagina&lt;/a&gt;; selezionare l&amp;rsquo;ultima versione in formato zip. L&amp;rsquo;attuale versione (consultata il 25/03/2020) si chiama &lt;code&gt;VoyantServer2_4-M36.zip&lt;/code&gt;ed è disponibile da &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases/download/2.4.0-M36/VoyantServer2_4-M36.zip&#34; target=&#34;_blank&#34;&gt;questo link diretto&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;step-1-caricare-uno-o-più-testi&#34;&gt;Step 1: Caricare uno o più testi&lt;/h4&gt;
+&lt;p&gt;È possibile caricare testi attraverso un link diretto ad un file di testo, rendendo lo strumento facilmente integrabile con testi presi dal sito &lt;a href=&#34;https://www.gutenberg.org/&#34; target=&#34;_blank&#34;&gt;Project Gutenberg&lt;/a&gt; (o altri siti che offrono opere letterarie in formato txt). Se si desidera caricare un testo da Project Gutenberg è necessario fornire a Voyant il link diretto al formato denominato &lt;strong&gt;Plain Text UTF-8&lt;/strong&gt;.
+Tutte le analisi e le relative visualizzazioni possono essere facilmente esportate in formato immagine, o è possibile generare un link per accedere direttamente alla visualizzazione scelta, rendendo la condivisione all’interno e all’esterno della classe molto semplice.&lt;/p&gt;
+&lt;h4 id=&#34;step-2-gli-strumenti-nella-home&#34;&gt;Step 2: Gli strumenti nella home&lt;/h4&gt;
+&lt;p&gt;Nella home ci sono 5 box principali con le seguenti funzioni:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cirrus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crea un word cloud, cioè una rappresentazione grafica in cui le parole più frequenti in un corpus o documento sono al centro e più grandi.&lt;/p&gt;
+&lt;p&gt;Di seguito un &lt;strong&gt;esempio usando il dataset sul Climate Change di &lt;em&gt;doccano&lt;/em&gt;&lt;/strong&gt; (&lt;a href=&#34;https://voyant-tools.org/?corpus=e849a58bda0069ef96ecd72dbe862e65&amp;view=Cirrus&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Cirrus/?view=Cirrus&amp;corpus=e849a58bda0069ef96ecd72dbe862e65&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Termini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fornisce la lista delle parole con conteggio di frequenza. &lt;em&gt;Possibili attività&lt;/em&gt;: dato un word cloud, riconoscere il testo e l’autore. Oppure confrontare due passaggi di un testo per ragionare sui collegamenti (similitudini e differenze) tra le due visualizzazioni (es. descrizioni di personaggi e luoghi)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Grafo delle collocazioni a rete che mostra le parole con frequenza maggiore che appaiono vicino alla parola data. &lt;em&gt;Possibili attività&lt;/em&gt;: far indovinare una poesia a partire dal grafo, come negli esempi seguenti con poesie di Leopardi; &lt;a href=&#34;https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&amp;query=pensier&amp;query=caro&amp;query=colle&amp;mode=corpus&amp;corpus=835d7e392455d29e6bb7060b81eeefef&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen del primo esempio&lt;/a&gt;; &lt;a href=&#34;https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&amp;query=festa&amp;query=giorno&amp;query=d%C3%AD&amp;mode=corpus&amp;corpus=414f8f39b2700d5b19e9af9efd1bfcc8&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen del secondo esempio&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/CollocatesGraph/?query=pensier&amp;query=caro&amp;query=colle&amp;mode=corpus&amp;corpus=835d7e392455d29e6bb7060b81eeefef&#39;&gt;&lt;/iframe&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/CollocatesGraph/?query=festa&amp;query=giorno&amp;query=d%C3%AD&amp;mode=corpus&amp;corpus=414f8f39b2700d5b19e9af9efd1bfcc8&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Lettore&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre in fondo al box. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo (linea in fondo al box).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TermsBerry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;È come &lt;em&gt;Cirrus&lt;/em&gt; ma più preciso perchè oltre alla frequenza considera i collocati (parole che occorrono nel contesto). &lt;em&gt;Possibili attività&lt;/em&gt;: scomporre un’opera in capitoli, osservare come cambia il contesto di alcune parole nello svolgersi della trama.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Andamenti&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Presenta un grafico dell&amp;rsquo;andamento della frequenza relativa delle parole nel documento.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Possibili attività&lt;/em&gt;: confrontare concetti (es. matrimonio, soldi) per scoprire che relazione c’è e come si caratterizza. Il trend è come ci si aspettava? C’è un motivo perché devia? A seguire una proposta di analisi della parola “occhi” nella Divina Commedia &lt;a href=&#34;https://voyant-tools.org/tool/Trends/?view=Trends&amp;query=occhi&amp;mode=document&amp;corpus=0cda884ed26443243873a8479b10925b&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Trends/?query=occhi&amp;mode=document&amp;corpus=0cda884ed26443243873a8479b10925b&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Contesti&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mostra ciascuna occorrenza di una parola chiave con una porzione di testo che lo circonda (contesto). Di seguito due esempi con il dataset Coronavirus presente su &lt;em&gt;doccano&lt;/em&gt;. Il primo mostra come si parlava della Cina durante lo scoppio dell’epidemia attraverso le occorrenze della parola &lt;em&gt;Cina&lt;/em&gt; (&lt;a href=&#34;https://voyant-tools.org/tool/Contexts/?view=Contexts&amp;query=cina&amp;corpus=50d8266fc9a14a615f028ce5bf240e78&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Contexts/?query=cina&amp;corpus=50d8266fc9a14a615f028ce5bf240e78&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;Nel secondo si può osservare come si parla della Cina dopo lo scoppio dell’epidemia in Europa (&lt;a href=&#34;https://voyant-tools.org/tool/Contexts/?view=Contexts&amp;categories=dee5baf2c5f55278c149c2344e0f6732&amp;query=cina*&amp;corpus=7f874731d8b644a836e26a6ea818266c&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Contexts/?query=cina*&amp;corpus=7f874731d8b644a836e26a6ea818266c&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Bubblelines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visualizza ogni termine come una bolla, la cui dimensione indica la frequenza del termine.&lt;/p&gt;
+&lt;h4 id=&#34;step-3-altri-strumenti&#34;&gt;Step 3: Altri strumenti&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;RezoViz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Permette di rappresentare graficamente i collegamenti tra persone, organizzazioni e luoghi (sotto forma di nodi in un network graph) che vengono menzionati in documenti diversi. &lt;em&gt;Possibili attività&lt;/em&gt;: creare collegamenti all’interno di opere di uno stesso autore allo scopo di verificare eventuali luoghi o personaggi che compaiono in modo ricorrente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mandala&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;È un tool di visualizzazione che permette, a partire da un termine chiave o magnete (scelto dall’utente) di attrarre a sé tutti i documenti che contengono quel termine in base alla sua frequenza relativa. A seguire due esempi:&lt;/p&gt;
+&lt;p&gt;Jane Austen (&lt;a href=&#34;https://www.voyant-tools.org/tool/Mandala/?query=mr&amp;query=mrs&amp;query=said&amp;query=miss&amp;query=think&amp;query=know&amp;query=good&amp;query=time&amp;query=little&amp;query=soon&amp;corpus=austen&amp;subtitle=The%20Works%20of%20Jane%20Austen&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://www.voyant-tools.org/tool/Mandala/?query=mr&amp;query=mrs&amp;query=said&amp;query=miss&amp;query=think&amp;query=know&amp;query=good&amp;query=time&amp;query=little&amp;query=soon&amp;corpus=austen&amp;subtitle=The%20Works%20of%20Jane%20Austen&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;Dataset Brexit (&lt;a href=&#34;https://voyant-tools.org/tool/Mandala/?view=Mandala&amp;query=brexit&amp;query=regno&amp;query=johnson&amp;query=unito&amp;query=corbyn&amp;query=labour&amp;query=leader&amp;query=anni&amp;query=britannici&amp;query=partito&amp;corpus=44bbe58e3869c7071071cc58b46584a8&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+ &lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Mandala/?query=brexit&amp;query=regno&amp;query=johnson&amp;query=unito&amp;query=corbyn&amp;query=labour&amp;query=leader&amp;query=anni&amp;query=britannici&amp;query=partito&amp;corpus=44bbe58e3869c7071071cc58b46584a8&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Questo tool utilizza un algoritmo di topic modelling per creare dei cluster di parole (dei topic, temi) presenti nei testi. Gli esiti usando testi di fiction sono complessi da analizzare, e in generale il suo utilizzo è più apprezzato con non-fiction. &lt;em&gt;Possibili attività&lt;/em&gt;: cercare di ricondurre i topics trovati dal tool a temi presenti nel romanzo secondo l’antologia. Oppure analizzare articoli di cronaca, come nell’esempio seguente sul Covid-19 (&lt;a href=&#34;https://voyant-tools.org/tool/Topics/?view=Topics&amp;stopList=stop.it.italian.txt&amp;corpus=d973efb95eb9f56881ee034bb91fac43&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Topics/?view=Topics&amp;stopList=stop.it.italian.txt&amp;corpus=d973efb95eb9f56881ee034bb91fac43&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Dreamscape&lt;/strong&gt; - Visualizzare i luoghi menzionati nei testi per un viaggio virtuale&lt;/p&gt;
+&lt;p&gt;Questo strumento identifica i luoghi menzionati nel testo e suggerisce delle connessioni tra essi basandosi sulla sequenza con cui vengono menzionati nel testo. Data la semplicità dell’algoritmo, non è detto che ogni sequenza di luoghi sia significativa: perciò sarà ancora più interessante indagare se il collegamento creato dal tool identifichi un effettivo spostamento di persone, beni, idee, o altro e sia rilevante per l’analisi. Sarà anche possibile trovare errori (falsi positivi e negativi), quindi l’importante è non fidarsi al 100% dei dati ma far seguire sempre un’analisi critica. &lt;em&gt;Possibili attività&lt;/em&gt;: studi interdisciplinari tra storia e letteratura.&lt;/p&gt;
+&lt;p&gt;Il seguente esempio mostra i luoghi menzionati nell’opera &lt;em&gt;Olanda&lt;/em&gt; di Edmondo De Amicis, disponibile gratuitamente dall’
+&lt;a href=&#34;https://www.gutenberg.org/ebooks/29864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apposita pagina su Project Gutenberg&lt;/a&gt;; (&lt;a href=&#34;https://voyant-tools.org/tool/DreamScape/?corpus=7e2a8c0f5b6bca79b6af1568c89fc0c2&#39;&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 957px; height: 317px;&#39; src=&#39;https://voyant-tools.org/tool/DreamScape/?corpus=7e2a8c0f5b6bca79b6af1568c89fc0c2&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Possibile attività - extra&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Voyant Tools si presta bene anche all’analisi dei propri testi. Si può proporre alla classe di creare un corpus con i testi di tutti gli studenti e poi analizzarli, per scoprire trend e difficoltà e promuovere autocorrezione e riflessione sui propri elaborati.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Doccano</title>
+      <link>l4l_test/materiali/materiali-didattici/strumenti-2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/strumenti-2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;informazioni-tecniche&#34;&gt;Informazioni tecniche&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sistema operativo&lt;/td&gt;
+&lt;td&gt;Tutti: piattaforma web accessibile da qualsiasi browser.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Supporto cellulare/tablet&lt;/td&gt;
+&lt;td&gt;&lt;i class=&#34;fas fa-times&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Formati supportati (import)&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lingue supportate&lt;/td&gt;
+&lt;td&gt;Qualsiasi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;i-classfas-fa-info-circlei-descrizione&#34;&gt;&lt;i class=&#34;fas fa-info-circle&#34;&gt;&lt;/i&gt; Descrizione&lt;/h3&gt;
+&lt;p&gt;Software per l’annotazione di testi: è possibile caricare testi a scelta, e creare etichette personalizzate per svolgere attività didattiche mirate.&lt;/p&gt;
+&lt;h3 id=&#34;i-classfas-fa-chalkboard-teacheri-obiettivi-di-apprendimento&#34;&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Obiettivi di apprendimento&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Permette di lavorare su qualunque tipologia di analisi linguistica se si usano dataset targettizzati al livello linguistico della classe.&lt;/p&gt;
+&lt;h3 id=&#34;i-classfas-fa-laptop-codei-applicazioni-per-la-didattica&#34;&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; Applicazioni per la didattica&lt;/h3&gt;
+&lt;p&gt;Grazie alla sua interfaccia semplice e dal  funzionamento intuitivo, è possibile utilizzarlo per attività che spaziano dalla scuola primaria alla scuola secondaria di secondo grado (dunque da un livello basilare a uno più avanzato).&lt;/p&gt;
+&lt;h3 id=&#34;i-classfas-fa-tasksi-esempi-di-possibili-applicazioni-duso&#34;&gt;&lt;i class=&#34;fas fa-tasks&#34;&gt;&lt;/i&gt; Esempi di possibili applicazioni d&amp;rsquo;uso&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi grammaticale&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi logica&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi del periodo&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi della violenza verbale sui social media&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi di evidenzialità (autorevolezza delle fonti in un testo) su testi argomentativi&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi di metafore concettuali&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi di figure retoriche&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; varietà linguistiche dell’italiano&lt;/p&gt;
+&lt;h3 id=&#34;in-breve-funzionalità-i-classfas-fa-check-circle-stylecolorgreeni-limitazioni-i-classfas-fa-times-circle-stylecolorredi-privacy-i-classfar-fa-eye-slashi&#34;&gt;In breve: funzionalità &lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt;, limitazioni &lt;i class=&#34;fas fa-times-circle&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt;, privacy &lt;i class=&#34;far fa-eye-slash&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt;  Possibilità di  caricare testi in &lt;strong&gt;qualsiasi lingua&lt;/strong&gt;, ed in &lt;strong&gt;diversi formati&lt;/strong&gt;, tra cui  &lt;code&gt;.txt&lt;/code&gt; (testo semplice) e &lt;code&gt;json&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Creazione di  un &lt;strong&gt;numero illimitato di etichette personalizzate&lt;/strong&gt;, e  &lt;strong&gt;diverse&lt;/strong&gt; per &lt;strong&gt;progetti diversi&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; &lt;strong&gt;Visualizzazione delle annotazioni&lt;/strong&gt; per ogni singolo utente.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Due &lt;strong&gt;modalità&lt;/strong&gt; di annotazione: &lt;em&gt;&lt;strong&gt;individuale&lt;/strong&gt;&lt;/em&gt; o &lt;em&gt;&lt;strong&gt;collaborativa&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-times-circle&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; Non è possibile assegnare più di un&amp;rsquo;etichetta alla stessa parola/frase annotata.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-times-circle&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; Il registro delle annotazioni non consente di visualizzare l&amp;rsquo;ordine o la cronologia delle operazioni.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-times-circle&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt; &lt;strong&gt;Non supporta&lt;/strong&gt; l&amp;rsquo;accesso da &lt;strong&gt;smartphone&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-eye-slash&#34;&gt;&lt;/i&gt; Software &lt;em&gt;&lt;strong&gt;open source&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-eye-slash&#34;&gt;&lt;/i&gt; Gli unici dati raccolti sono quelli inseriti al momento della creazione dell&amp;rsquo;account.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-eye-slash&#34;&gt;&lt;/i&gt; Tutti i dati (informazioni dell&amp;rsquo;account; annotazioni) sono conservate su un server privato - nel nostro caso, in un server gestito da FEM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voyant Tools</title>
+      <link>l4l_test/materiali/materiali-didattici/strumenti-1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>l4l_test/materiali/materiali-didattici/strumenti-1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;informazioni-tecniche&#34;&gt;Informazioni tecniche&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sistema operativo&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Versione web&lt;/strong&gt;: tutti, accessibile da qualsiasi browser&lt;br/&gt;&lt;strong&gt;Versione &lt;em&gt;standalone&lt;/em&gt;&lt;/strong&gt;: Windows, MacOS, Linux&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Supporto cellulare/tablet&lt;/td&gt;
+&lt;td&gt;&lt;i class=&#34;fas fa-check&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Formati supportati (import)&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;docx&lt;/code&gt;, &lt;code&gt;xml&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lingue supportate&lt;/td&gt;
+&lt;td&gt;Qualsiasi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;i-classfas-fa-info-circlei-descrizione&#34;&gt;&lt;i class=&#34;fas fa-info-circle&#34;&gt;&lt;/i&gt; Descrizione&lt;/h2&gt;
+&lt;p&gt;E’ un software per l’analisi testuale e letteraria in chiave quantitativa, che offre diversi strumenti di analisi e visualizzazione.&lt;/p&gt;
+&lt;p&gt;Creato da Stéfan Sinclair (McGill University) e Geoffrey Rockwell (University of Alberta), a partire dalla teoria del &lt;strong&gt;Distant Reading&lt;/strong&gt; sviluppata da Franco Moretti per l’esplorazione quantitativa e “distante” (ovvero, senza leggere i testi) della letteratura.
+Alla base del &lt;strong&gt;Distant Reading&lt;/strong&gt; c’è l’idea (provocatoria) di &lt;em&gt;studiare la letteratura senza leggere libri&lt;/em&gt;. L’approccio quantitativo proposto da Moretti (e realizzabile attraverso Voyant) si basa sull’analisi di aspetti (frequenza delle parole, rappresentazioni grafiche delle relazioni tra personaggi, etc…) che solo una visione digitale d’insieme può fornire. Questi dettagli, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili attraverso una lettura “&lt;em&gt;tradizionale&lt;/em&gt;”. Lo &lt;a href=&#34;https://litlab.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Stanford Literary Lab&lt;/a&gt; prosegue il lavoro sulla teoria e la metodologia del &lt;em&gt;distant reading&lt;/em&gt; anche attraverso la pubblicazione di brevi &lt;a href=&#34;https://litlab.stanford.edu/pamphlets/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;pamphlet&lt;/em&gt;&lt;/a&gt; che raccontano - in maniera divulgativa - i risultati delle ricerche condotte. Una breve descrizione (in Inglese) dell’approccio &lt;em&gt;Distant Reading&lt;/em&gt; è stata pubblicata dal &lt;a href=&#34;https://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html&#34; target=&#34;_blank&#34;&gt;New York Times&lt;/a&gt;; un articolo di approfondimento è invece &lt;a href=&#34;http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html&#34; target=&#34;_blank&#34;&gt;disponibile a questo link&lt;/a&gt;.
+A &lt;a href=&#34;https://www.voyant-tools.org/&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt; è possibile accedere alla versione web dello strumento, che &lt;strong&gt;supporta anche l&amp;rsquo;accesso da smartphone&lt;/strong&gt;. In alternativa è possibile scaricare una versione da eseguire sul proprio computer (Windows, MacOS, Linux) da &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases&#34; target=&#34;_blank&#34;&gt;questa pagina&lt;/a&gt;; selezionare l&amp;rsquo;ultima versione in formato zip. L&amp;rsquo;attuale versione (consultata il 25/03/2020) si chiama &lt;code&gt;VoyantServer2_4-M36.zip&lt;/code&gt;ed è disponibile da &lt;a href=&#34;https://github.com/sgsinclair/VoyantServer/releases/download/2.4.0-M36/VoyantServer2_4-M36.zip&#34; target=&#34;_blank&#34;&gt;questo link diretto&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;i-classfas-fa-chalkboard-teacheri-obiettivi-di-apprendimento&#34;&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Obiettivi di apprendimento&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;permette di caricare sia un testo completo sia il link a URL esterno, ad esempio una rivista online contenente articoli; anche qui, sono molteplici le caratteristiche testuali e linguistiche su cui si può operare (collocations, analisi quantitativa delle parole presenti nel testo/word frequency, visualizzazioni grafiche etc.)&lt;/p&gt;
+&lt;h3 id=&#34;i-classfas-fa-laptop-codei-applicazioni-per-la-didattica&#34;&gt;&lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt; Applicazioni per la didattica&lt;/h3&gt;
+&lt;p&gt;Lo strumento fornisce molteplici funzionalità attraverso un&amp;rsquo;interfaccia intuitiva, supportata da una dettagliata documentazione. Offre la possibilità di approcciare testi (di qualsiasi tipologia e/o lingua) attraverso una &lt;strong&gt;visione quantitativa&lt;/strong&gt;, lasciando quindi al docente e alla classe lo spazio per attività di interpretazione, comprensione, e riflessione sul testo.&lt;/p&gt;
+&lt;h2 id=&#34;i-classfas-fa-tasksi-esempi-di-possibili-applicazioni-duso&#34;&gt;&lt;i class=&#34;fas fa-tasks&#34;&gt;&lt;/i&gt; Esempi di possibili applicazioni d&amp;rsquo;uso&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; analisi lessicale (in qualsiasi lingua)&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; antologia, letteratura italiana, o letteratura straniera a &lt;strong&gt;confronto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-arrow-circle-right&#34;&gt;&lt;/i&gt; macro-analisi di &lt;strong&gt;testi e di correnti letterarie&lt;/strong&gt;; ad esempio attraverso l&amp;rsquo;approccio &lt;em&gt;Distant Reading&lt;/em&gt;, focalizzato sulla &lt;strong&gt;creazione di schemi&lt;/strong&gt; per mettere in &lt;strong&gt;relazione concetti chiave&lt;/strong&gt; ricorrenti come i personaggi e i luoghi citati in un testo o in diversi testi dello stesso autore.&lt;/p&gt;
+&lt;h2 id=&#34;in-breve-funzionalità-i-classfas-fa-check-circle-stylecolorgreeni-limitazioni-i-classfas-fa-times-circle-stylecolorredi-privacy-i-classfar-fa-eye-slashi&#34;&gt;In breve: funzionalità &lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt;, limitazioni &lt;i class=&#34;fas fa-times-circle&#34; style=&#34;color:red&#34;&gt;&lt;/i&gt;, privacy &lt;i class=&#34;far fa-eye-slash&#34;&gt;&lt;/i&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Possibilità di caricare testi in &lt;strong&gt;qualsiasi lingua&lt;/strong&gt;, ed in &lt;strong&gt;diversi formati&lt;/strong&gt; - tra cui &lt;code&gt;.txt&lt;/code&gt; (testo semplice).&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Possibilità di caricare testi &lt;strong&gt;già online, quindi tramite URL&lt;/strong&gt; - ad esempio, attraverso link diretti dal 
+&lt;a href=&#34;https://www.gutenberg.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Progetto Gutenberg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Sviluppato e manutenuto dalla Stanford University.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; I risultati possono essere facilmente condivisi tramite link diretto.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-check-circle&#34; style=&#34;color:green&#34;&gt;&lt;/i&gt; Disponibile in due &amp;ldquo;formati&amp;rdquo;: da browser web, o come programma da installare localmente sul proprio PC.&lt;/p&gt;
+&lt;h2 id=&#34;primi-passi-con-voyant&#34;&gt;Primi passi con Voyant&lt;/h2&gt;
+&lt;p&gt;In questa sezione trovate alcuni consigli per muovere i primi passi con Voyant: dall’utilizzo dei singoli strumenti, alla creazione di un dataset personalizzato.
+Iniziamo con una breve panoramica dei 5 strumenti che abbiamo scelto per usare la &lt;em&gt;distant reading&lt;/em&gt; su testi di letteratura: cliccando su &lt;a href=&#34;https://voyant-tools.org/?panels=corpuscollocates,reader,trends,phrases,dreamscape&amp;corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&#34; target=&#34;_blank&#34;&gt;questo link&lt;/a&gt;
+si aprirà il dataset contenente tutta l’opera Orlando Furioso. L’interfaccia si presenterà come raffigurato nell’immagine qui sotto:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-interfaccia-di-voyant&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../comprensione-1/orlando_voyant_menu.jpg&#34; data-caption=&#34;Interfaccia di Voyant&#34;&gt;
+
+
+  &lt;img src=&#34;../comprensione-1/orlando_voyant_menu.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Interfaccia di Voyant
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I 5 strumenti precaricati sono solo una piccola parte di quelli che Voyant mette a disposizione! Abbiamo selezionato quelli più utili per svolgere le attività proposte, ma in ogni momento puoi provare ad usare altre funzionalità. Qualsiasi modifica che farai all’interfaccia &lt;strong&gt;è temporanea, e visibile solo dall’utente che la sta utilizzando&lt;/strong&gt;, quindi nessun timore: sperimenta funzioni diverse e scopri quali altre potrebbero esserti utili. Per ogni strumento e per l’interfaccia complessiva (la barra blu in cima alla pagina) sono disponibili 4 pulsanti: &lt;img src=&#34;4opzioni.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../comprensione-1/share.jpg&#34; alt=&#34;&#34;&gt;permette di creare un link diretto allo strumento (o all’interfaccia) selezionata, completa dei risultati prodotti.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/cambiastrumento.jpg&#34; alt=&#34;&#34;&gt;attraverso questo pulsante puoi selezionare uno strumento diverso tra quelli che Voyant offre.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/opzionistrumento.jpg&#34; alt=&#34;&#34;&gt;questo pulsante permette di accedere alle opzioni dello strumento attivo.&lt;br&gt;
+&lt;img src=&#34;../comprensione-1/helpstrumento.jpg&#34; alt=&#34;&#34;&gt;accedi alla guida dello strumento attivo.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;https://voyant-tools.org/docs/&#34; target=&#34;_blank&#34;&gt;guida online di Voyant&lt;/a&gt; contiene una dettagliata descrizione di tutti gli strumenti, oltre alle istruzioni su come usare la piattaforma per creare dataset personalizzati.&lt;/p&gt;
+&lt;p&gt;Le funzioni che abbiamo scelto - ed esemplificato nell’immagine sopra - sono:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Collocates/Collocati&lt;/strong&gt;: parole che co-occorrono, che si trovano insieme più frequentemente, dato un certo contesto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reader/Lettore&lt;/strong&gt;: permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trends/Andamenti&lt;/strong&gt;: presenta un grafico dell’andamento della frequenza relativa delle parole nel documento, o della parola/e selezionate negli altri strumenti. Il grafico si aggiorna &amp;ldquo;live&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phrases/Sintagmi&lt;/strong&gt;: mostra le combinazioni &lt;em&gt;fisse&lt;/em&gt; di parole più frequenti nel testo/i.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dreamscape&lt;/strong&gt;: è una funzione sperimentale (che produce risultati spesso imprecisi) che estrae i nomi di luoghi presenti nel testo, e li visualizza su una mappa geografica, creando automaticamente un &amp;ldquo;viaggio&amp;rdquo; tra i diversi luoghi basato sull’ordine di apparizione dei luoghi nel testo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;ricerca-avanzata-di-parole-o-frasi-con-voyant&#34;&gt;Ricerca avanzata di parole o frasi con Voyant&lt;/h3&gt;
+&lt;p&gt;Voyant supporta l’utilizzo di espressioni regolari: di seguito un elenco delle espressioni supportate, corredate da esempi.&lt;/p&gt;
+&lt;ul style=&#34;margin-top: 3px; margin-bottom: 3px;&#34;&gt;&lt;li&gt;&lt;b&gt;cappotto&lt;/b&gt;: trova il termine esatto &lt;i&gt;cappotto&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto*&lt;/b&gt;: trova termini che iniziano con &lt;i&gt;cappotto&lt;/i&gt; come termine singolo&lt;/li&gt;&lt;li&gt;&lt;b&gt;^cappott*&lt;/b&gt;: trova termini che iniziano con &lt;i&gt;cappott&lt;/i&gt; come termine separato (cappotto, cappotti, ecc.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto, giacca &lt;/b&gt;: trova ogni termine separato da virgole come termine separato&lt;/li&gt;&lt;li&gt;&lt;b&gt;cappotto | giacca&lt;/b&gt;: trova termini separati dalla barra come singolo termine&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#34;cappotto invernale&#34;&lt;/b&gt;: &lt;i&gt;cappotto invernale&lt;/i&gt; come sintagma&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#34;guanti cappotto&#34;~ 5&lt;/b&gt;: &lt;i&gt;cappotto&lt;/i&gt; nei pressi di &lt;i&gt; guanti&lt;/i&gt; (entro 5 termini )&lt;/li&gt;&lt;li&gt;&lt;b&gt; ^cappott*, giacca | parka,&#34;guanti cappotto&#34;~ 5&lt;/b&gt;: combina le sintassi&lt;/li&gt;&lt;/ul&gt;
+&lt;h2 id=&#34;mini-guida-a-voyant--close-e-distant-reading-di-testi&#34;&gt;Mini-guida a &lt;em&gt;Voyant&lt;/em&gt; | &lt;em&gt;close&lt;/em&gt; e &lt;em&gt;distant reading&lt;/em&gt; di testi&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;voyant.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-1-caricare-uno-o-più-testi&#34;&gt;Step 1: Caricare uno o più testi&lt;/h3&gt;
+&lt;p&gt;È possibile caricare testi attraverso un link diretto ad un file di testo, rendendo lo strumento facilmente integrabile con testi presi dal sito &lt;a href=&#34;https://www.gutenberg.org/&#34; target=&#34;_blank&#34;&gt;Project Gutenberg&lt;/a&gt; (o altri siti che offrono opere letterarie in formato txt). Se si desidera caricare un testo da Project Gutenberg è necessario fornire a Voyant il link diretto al formato denominato &lt;strong&gt;Plain Text UTF-8&lt;/strong&gt;.&lt;br&gt;
+Tutte le analisi e le relative visualizzazioni possono essere facilmente esportate in formato immagine, o è possibile generare un link per accedere direttamente alla visualizzazione scelta, rendendo la condivisione all’interno e all’esterno della classe molto semplice.&lt;/p&gt;
+&lt;h3 id=&#34;step-2-gli-strumenti-nella-home&#34;&gt;Step 2: Gli strumenti nella home&lt;/h3&gt;
+&lt;p&gt;Nella home ci sono 5 box principali con le seguenti funzioni:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cirrus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Crea un word cloud, cioè una rappresentazione grafica in cui le parole più frequenti in un corpus o documento sono al centro e più grandi.&lt;/p&gt;
+&lt;p&gt;Di seguito un &lt;strong&gt;esempio usando il dataset sul Climate Change di &lt;em&gt;doccano&lt;/em&gt;&lt;/strong&gt; (&lt;a href=&#34;https://voyant-tools.org/?corpus=e849a58bda0069ef96ecd72dbe862e65&amp;view=Cirrus&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Cirrus/?view=Cirrus&amp;corpus=e849a58bda0069ef96ecd72dbe862e65&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Termini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fornisce la lista delle parole con conteggio di frequenza. &lt;em&gt;Possibili attività&lt;/em&gt;: dato un word cloud, riconoscere il testo e l’autore. Oppure confrontare due passaggi di un testo per ragionare sui collegamenti (similitudini e differenze) tra le due visualizzazioni (es. descrizioni di personaggi e luoghi)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Grafo delle collocazioni a rete che mostra le parole con frequenza maggiore che appaiono vicino alla parola data. &lt;em&gt;Possibili attività&lt;/em&gt;: far indovinare una poesia a partire dal grafo, come negli esempi seguenti con poesie di Leopardi; &lt;a href=&#34;https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&amp;query=pensier&amp;query=caro&amp;query=colle&amp;mode=corpus&amp;corpus=835d7e392455d29e6bb7060b81eeefef&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen del primo esempio&lt;/a&gt;; &lt;a href=&#34;https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&amp;query=festa&amp;query=giorno&amp;query=d%C3%AD&amp;mode=corpus&amp;corpus=414f8f39b2700d5b19e9af9efd1bfcc8&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen del secondo esempio&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/CollocatesGraph/?query=pensier&amp;query=caro&amp;query=colle&amp;mode=corpus&amp;corpus=835d7e392455d29e6bb7060b81eeefef&#39;&gt;&lt;/iframe&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/CollocatesGraph/?query=festa&amp;query=giorno&amp;query=d%C3%AD&amp;mode=corpus&amp;corpus=414f8f39b2700d5b19e9af9efd1bfcc8&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Lettore&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Permette di consultare i testi presenti nel corpus, graficamente rappresentati con barre in fondo al box. Cliccando su una parola vengono fornite informazioni sulla frequenza e la loro distribuzione all’interno del testo (linea in fondo al box).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TermsBerry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;È come &lt;em&gt;Cirrus&lt;/em&gt; ma più preciso perchè oltre alla frequenza considera i collocati (parole che occorrono nel contesto). &lt;em&gt;Possibili attività&lt;/em&gt;: scomporre un’opera in capitoli, osservare come cambia il contesto di alcune parole nello svolgersi della trama.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Andamenti&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Presenta un grafico dell&amp;rsquo;andamento della frequenza relativa delle parole nel documento.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Possibili attività&lt;/em&gt;: confrontare concetti (es. matrimonio, soldi) per scoprire che relazione c’è e come si caratterizza. Il trend è come ci si aspettava? C’è un motivo perché devia? A seguire una proposta di analisi della parola “occhi” nella Divina Commedia &lt;a href=&#34;https://voyant-tools.org/tool/Trends/?view=Trends&amp;query=occhi&amp;mode=document&amp;corpus=0cda884ed26443243873a8479b10925b&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Trends/?query=occhi&amp;mode=document&amp;corpus=0cda884ed26443243873a8479b10925b&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Contesti&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mostra ciascuna occorrenza di una parola chiave con una porzione di testo che lo circonda (contesto). Di seguito due esempi con il dataset Coronavirus presente su &lt;em&gt;doccano&lt;/em&gt;. Il primo mostra come si parlava della Cina durante lo scoppio dell’epidemia attraverso le occorrenze della parola &lt;em&gt;Cina&lt;/em&gt; (&lt;a href=&#34;https://voyant-tools.org/tool/Contexts/?view=Contexts&amp;query=cina&amp;corpus=50d8266fc9a14a615f028ce5bf240e78&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Contexts/?query=cina&amp;corpus=50d8266fc9a14a615f028ce5bf240e78&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;Nel secondo si può osservare come si parla della Cina dopo lo scoppio dell’epidemia in Europa (&lt;a href=&#34;https://voyant-tools.org/tool/Contexts/?view=Contexts&amp;categories=dee5baf2c5f55278c149c2344e0f6732&amp;query=cina*&amp;corpus=7f874731d8b644a836e26a6ea818266c&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Contexts/?query=cina*&amp;corpus=7f874731d8b644a836e26a6ea818266c&#39;&gt;&lt;/iframe&gt;  
+&lt;p&gt;&lt;strong&gt;Bubblelines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visualizza ogni termine come una bolla, la cui dimensione indica la frequenza del termine.&lt;/p&gt;
+&lt;h3 id=&#34;step-3-altri-strumenti&#34;&gt;Step 3: Altri strumenti&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;RezoViz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Permette di rappresentare graficamente i collegamenti tra persone, organizzazioni e luoghi (sotto forma di nodi in un network graph) che vengono menzionati in documenti diversi. &lt;em&gt;Possibili attività&lt;/em&gt;: creare collegamenti all’interno di opere di uno stesso autore allo scopo di verificare eventuali luoghi o personaggi che compaiono in modo ricorrente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mandala&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;È un tool di visualizzazione che permette, a partire da un termine chiave o magnete (scelto dall’utente) di attrarre a sé tutti i documenti che contengono quel termine in base alla sua frequenza relativa. A seguire due esempi:&lt;/p&gt;
+&lt;p&gt;Jane Austen (&lt;a href=&#34;https://www.voyant-tools.org/tool/Mandala/?query=mr&amp;query=mrs&amp;query=said&amp;query=miss&amp;query=think&amp;query=know&amp;query=good&amp;query=time&amp;query=little&amp;query=soon&amp;corpus=austen&amp;subtitle=The%20Works%20of%20Jane%20Austen&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://www.voyant-tools.org/tool/Mandala/?query=mr&amp;query=mrs&amp;query=said&amp;query=miss&amp;query=think&amp;query=know&amp;query=good&amp;query=time&amp;query=little&amp;query=soon&amp;corpus=austen&amp;subtitle=The%20Works%20of%20Jane%20Austen&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;Dataset Brexit (&lt;a href=&#34;https://voyant-tools.org/tool/Mandala/?view=Mandala&amp;query=brexit&amp;query=regno&amp;query=johnson&amp;query=unito&amp;query=corbyn&amp;query=labour&amp;query=leader&amp;query=anni&amp;query=britannici&amp;query=partito&amp;corpus=44bbe58e3869c7071071cc58b46584a8&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+ &lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Mandala/?query=brexit&amp;query=regno&amp;query=johnson&amp;query=unito&amp;query=corbyn&amp;query=labour&amp;query=leader&amp;query=anni&amp;query=britannici&amp;query=partito&amp;corpus=44bbe58e3869c7071071cc58b46584a8&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Questo tool utilizza un algoritmo di topic modelling per creare dei cluster di parole (dei topic, temi) presenti nei testi. Gli esiti usando testi di fiction sono complessi da analizzare, e in generale il suo utilizzo è più apprezzato con non-fiction. &lt;em&gt;Possibili attività&lt;/em&gt;: cercare di ricondurre i topics trovati dal tool a temi presenti nel romanzo secondo l’antologia. Oppure analizzare articoli di cronaca, come nell’esempio seguente sul Covid-19 (&lt;a href=&#34;https://voyant-tools.org/tool/Topics/?view=Topics&amp;stopList=stop.it.italian.txt&amp;corpus=d973efb95eb9f56881ee034bb91fac43&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 60%; height: 600px;&#39; src=&#39;https://voyant-tools.org/tool/Topics/?view=Topics&amp;stopList=stop.it.italian.txt&amp;corpus=d973efb95eb9f56881ee034bb91fac43&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Dreamscape&lt;/strong&gt; - Visualizzare i luoghi menzionati nei testi per un viaggio virtuale&lt;/p&gt;
+&lt;p&gt;Questo strumento identifica i luoghi menzionati nel testo e suggerisce delle connessioni tra essi basandosi sulla sequenza con cui vengono menzionati nel testo. Data la semplicità dell’algoritmo, non è detto che ogni sequenza di luoghi sia significativa: perciò sarà ancora più interessante indagare se il collegamento creato dal tool identifichi un effettivo spostamento di persone, beni, idee, o altro e sia rilevante per l’analisi. Sarà anche possibile trovare errori (falsi positivi e negativi), quindi l’importante è non fidarsi al 100% dei dati ma far seguire sempre un’analisi critica. &lt;em&gt;Possibili attività&lt;/em&gt;: studi interdisciplinari tra storia e letteratura.&lt;/p&gt;
+&lt;p&gt;Il seguente esempio mostra i luoghi menzionati nell’opera &lt;em&gt;Olanda&lt;/em&gt; di Edmondo De Amicis, disponibile gratuitamente dall’
+&lt;a href=&#34;https://www.gutenberg.org/ebooks/29864&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apposita pagina su Project Gutenberg&lt;/a&gt;; (&lt;a href=&#34;https://voyant-tools.org/tool/DreamScape/?corpus=7e2a8c0f5b6bca79b6af1568c89fc0c2&#39;&#34; target=&#34;_blank&#34;&gt;qui la versione fullscreen&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe style=&#39;width: 957px; height: 317px;&#39; src=&#39;https://voyant-tools.org/tool/DreamScape/?corpus=7e2a8c0f5b6bca79b6af1568c89fc0c2&#39;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Possibile attività - extra&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Voyant Tools si presta bene anche all’analisi dei propri testi. Si può proporre alla classe di creare un corpus con i testi di tutti gli studenti e poi analizzarli, per scoprire trend e difficoltà e promuovere autocorrezione e riflessione sui propri elaborati.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

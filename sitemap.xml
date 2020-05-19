@@ -3,97 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/materiali/template/esempio1/</loc>
+    <loc>l4l_test/materiali/materiali-didattici/scrittura-3/</loc>
+    <lastmod>2020-05-19T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/materiali-didattici/scrittura-2/</loc>
+    <lastmod>2020-05-12T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/materiali-didattici/scrittura-1/</loc>
+    <lastmod>2020-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/materiali-didattici/comprensione-1/</loc>
+    <lastmod>2020-04-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/materiali-didattici/linguistica-e-didattica/</loc>
+    <lastmod>2020-03-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/materiali-didattici/strumenti-2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/materiali/template/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/strumenti-voyant/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/strumenti/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/voyant/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/webinar/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/materiali/</loc>
+    <loc>l4l_test/materiali/materiali-didattici/strumenti-1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/annamaria-bove/</loc>
+    <loc>l4l_test/materiali/materiali-didattici/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>l4l_test/</loc>
+    <lastmod>2020-05-19T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>l4l_test/materiali/</loc>
+    <lastmod>2020-05-19T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/francesca-mangialardo/</loc>
+    <loc>l4l_test/post/strumenti-voyant/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/giulia-berardinelli/</loc>
+    <loc>l4l_test/post/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/matilde-maresca/</loc>
+    <loc>l4l_test/tag/strumenti/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/matteo-di-cristofaro/</loc>
+    <loc>l4l_test/tags/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>l4l_test/tag/voyant/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>l4l_test/tag/webinar/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>l4l_test/index.html</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>l4l_test/author/annamaria-bove/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/materiali/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/author/francesca-mangialardo/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/author/giulia-berardinelli/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/author/matilde-maresca/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/author/matteo-di-cristofaro/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/post/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>l4l_test/talk/</loc>
   </url>
   
 </urlset>
