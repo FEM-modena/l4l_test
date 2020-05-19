@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Come usare questi materiali | Li Per La | FEM</title>
-    <link>l4l_test/materiali/materiali-didattici/</link>
-      <atom:link href="l4l_test/materiali/materiali-didattici/index.xml" rel="self" type="application/rss+xml" />
+    <link>/materiali/materiali-didattici/</link>
+      <atom:link href="/materiali/materiali-didattici/index.xml" rel="self" type="application/rss+xml" />
     <description>Come usare questi materiali</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/l4l_test/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Come usare questi materiali</title>
-      <link>l4l_test/materiali/materiali-didattici/</link>
+      <link>/materiali/materiali-didattici/</link>
     </image>
     
   </channel>

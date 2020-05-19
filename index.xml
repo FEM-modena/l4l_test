@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Per La | FEM</title>
-    <link>l4l_test/</link>
-      <atom:link href="l4l_test/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Per La | FEM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/l4l_test/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Li Per La | FEM</title>
-      <link>l4l_test/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>GSuite, linguistica, Media &amp; Information Literacy | spunti per rafforzare le competenze di scrittura e comunicazione digitale</title>
-      <link>l4l_test/materiali/materiali-didattici/scrittura-3/</link>
+      <link>/materiali/materiali-didattici/scrittura-3/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/scrittura-3/</guid>
+      <guid>/materiali/materiali-didattici/scrittura-3/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -55,9 +55,9 @@ Nella sezione &lt;strong&gt;Hai voglia di scrivere?&lt;/strong&gt; trovate alcun
     
     <item>
       <title>GSuite e linguistica | spunti per migliorare le competenze di scrittura</title>
-      <link>l4l_test/materiali/materiali-didattici/scrittura-2/</link>
+      <link>/materiali/materiali-didattici/scrittura-2/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/scrittura-2/</guid>
+      <guid>/materiali/materiali-didattici/scrittura-2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -161,9 +161,9 @@ Di seguito alcuni esperimenti linguistici sul testo di &lt;em&gt;Frankenstein&lt
     
     <item>
       <title>Strumenti e metodi per migliorare la produzione del testo scritto</title>
-      <link>l4l_test/materiali/materiali-didattici/scrittura-1/</link>
+      <link>/materiali/materiali-didattici/scrittura-1/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/scrittura-1/</guid>
+      <guid>/materiali/materiali-didattici/scrittura-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -263,9 +263,9 @@ Soprattutto in questi giorni, la &lt;strong&gt;tecnologia&lt;/strong&gt; può ri
     
     <item>
       <title>Leggere i testi letterari con strumenti computazionali | alcuni consigli per facilitare lo studio e migliorare la comprensione</title>
-      <link>l4l_test/materiali/materiali-didattici/comprensione-1/</link>
+      <link>/materiali/materiali-didattici/comprensione-1/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/comprensione-1/</guid>
+      <guid>/materiali/materiali-didattici/comprensione-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -645,9 +645,9 @@ si aprirà il dataset contenente tutta l’opera Orlando Furioso. L’interfacci
     
     <item>
       <title>Lingua Italiana e didattica digitale | consigli, suggerimenti e buone pratiche</title>
-      <link>l4l_test/materiali/materiali-didattici/linguistica-e-didattica/</link>
+      <link>/materiali/materiali-didattici/linguistica-e-didattica/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/linguistica-e-didattica/</guid>
+      <guid>/materiali/materiali-didattici/linguistica-e-didattica/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -863,9 +863,9 @@ Tutte le analisi e le relative visualizzazioni possono essere facilmente esporta
     
     <item>
       <title>Doccano</title>
-      <link>l4l_test/materiali/materiali-didattici/strumenti-2/</link>
+      <link>/materiali/materiali-didattici/strumenti-2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/strumenti-2/</guid>
+      <guid>/materiali/materiali-didattici/strumenti-2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -929,9 +929,9 @@ Tutte le analisi e le relative visualizzazioni possono essere facilmente esporta
     
     <item>
       <title>Voyant Tools</title>
-      <link>l4l_test/materiali/materiali-didattici/strumenti-1/</link>
+      <link>/materiali/materiali-didattici/strumenti-1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>l4l_test/materiali/materiali-didattici/strumenti-1/</guid>
+      <guid>/materiali/materiali-didattici/strumenti-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Hai suggerimenti, proposte, dubbi, domande in merito a questi materiali? &lt;a href=&#34;../#la-nostra-classroom&#34;&gt;Entra nella nostra classroom!&lt;/a&gt;
@@ -1095,9 +1095,9 @@ Tutte le analisi e le relative visualizzazioni possono essere facilmente esporta
     
     <item>
       <title>GSuite e linguistica | spunti per migliorare le competenze di scrittura</title>
-      <link>l4l_test/post/strumenti-voyant/</link>
+      <link>/post/strumenti-voyant/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      <guid>l4l_test/post/strumenti-voyant/</guid>
+      <guid>/post/strumenti-voyant/</guid>
       <description>&lt;p&gt;Riscrivere un brano cambiandone la tipologia testuale, modificarne la connotazione, far emergere quelle caratteristiche che rendono un testo chiaro ed efficace. Sono questi alcuni dei meccanismi che affronteremo in questo mini-webinar, che ci fa entrare nel vivo del mese linguistico dedicato alla scrittura. Vedremo - attraverso un approccio ispirato alla scrittura collaborativa su documenti GDocs - come sia possibile migliorare la produzione e la riscrittura di testi attraverso l’annotazione e l’analisi di alcune caratteristiche testuali, favorendo al contempo una riflessione sui significati e sulle connotazioni che la lingua è in grado di trasmettere.&lt;/p&gt;
 &lt;p&gt;Il webinar fa parte di una programmazione più ampia dedicata all’interazione tra linguistica e didattica in classe. Vi invitiamo a visionare tutti i materiali e le attività prodotti finora sulla nostra pagina web Risorse di linguistica (&lt;a href=&#34;https://www.fem.digital/linguistica/&#34;&gt;https://www.fem.digital/linguistica/&lt;/a&gt;) e a condividere con noi idee e suggerimenti nella nostra stanza Lingua e Linguistica su Google Classroom al link &lt;a href=&#34;https://classroom.google.com/h,&#34;&gt;https://classroom.google.com/h,&lt;/a&gt; utilizzando il codice jdibcze.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;FEM_Logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
